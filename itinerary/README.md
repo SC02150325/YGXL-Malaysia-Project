@@ -90,6 +90,30 @@ Saloma Link 适合作为双子塔之后的补充机位，可以拍桥体灯光�
 | 17:30-18:00 | Melaka Sentral → Hatten Hotel | 带行李建议 Grab，直接前往酒店，不建议第一次到达时拖行李换乘市内公交 |
 | 18:00 以后 | 入住、休息、换衣服 | 之后再前往 Dutch Square、Christ Church 和 Jonker Walk |
 
+## Day 2 交通地点记忆 / Bilingual Waypoints
+
+| 顺序 | 中文地点 | English | 记忆重点 / What to remember |
+| --- | --- | --- | --- |
+| 1 | 双威布特拉酒店 | Sunway Putra Hotel Kuala Lumpur | 出发点、取行李点；酒店连接 Sunway Putra Mall |
+| 2 | PWTC 轻轨站 | PWTC LRT Station | 酒店/商场连通站；记住线路为 Ampang Line / Sri Petaling Line |
+| 3 | 清真寺占美站 | Masjid Jamek Station | 第一次换乘点；按站内指示换乘 Kelana Jaya Line |
+| 4 | 巴刹南市场站 | Pasar Seni Station | 老城区下车点；前往 Petaling Street 和 Kwai Chai Hong |
+| 5 | 茨厂街 | Petaling Street / Chinatown | 上午游览和午餐区域 |
+| 6 | 鬼仔巷 | Kwai Chai Hong | 街拍和建筑拍照区域 |
+| 7 | 南湖镇站 | Bandar Tasik Selatan Station | 返回酒店取行李后前往 TBS 的下车点；按 Putra Heights 方向乘车 |
+| 8 | 南湖镇综合交通总站 | TBS - Terminal Bersepadu Selatan | 长途巴士出发总站；确认目的地为 Melaka Sentral |
+| 9 | 马六甲中央车站 | Melaka Sentral | 长途巴士到达站；取行李后叫 Grab |
+| 10 | 哈登酒店马六甲 | Hatten Hotel Melaka | 马六甲入住点、放行李和休息点 |
+
+### 站台与方向记忆 / Platform and Direction Notes
+
+- **PWTC LRT Station**：从酒店进入车站后，先确认乘坐的是 Ampang Line / Sri Petaling Line；去 Masjid Jamek 时确认列车方向和下一站信息。
+- **Masjid Jamek Station**：这里重点记“换乘站”，不要只记站台编号；现场根据线路颜色、终点方向和电子屏确认 Kelana Jaya Line。
+- **Pasar Seni Station**：下车后跟随 Chinatown / Petaling Street 方向标识；回程时按 Masjid Jamek 方向返回。
+- **Bandar Tasik Selatan Station**：返回酒店取行李后，乘 Sri Petaling Line 往 **Putra Heights** 方向，在此站下车；沿连通通道前往 TBS。
+- **TBS**：这是巴士总站，不是普通地铁站；购票、检票、候车和站台以当天车票和电子屏为准。
+- **Melaka Sentral**：这是马六甲长途巴士总站；下车后先集合、清点行李，再前往 Grab 上车点。
+- **重要提醒**：不写死具体站台号码。站台可能因运营、班次或现场调度变化，实际以当天电子屏、车票和工作人员指引为准。
 ### 上午：酒店附近与吉隆坡老城区
 
 #### 1. 从 Sunway Putra Hotel 到 PWTC LRT 站
@@ -174,6 +198,7 @@ Saloma Link 适合作为双子塔之后的补充机位，可以拍桥体灯光�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 

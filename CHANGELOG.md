@@ -84,3 +84,10 @@
 - 补充 PWTC、Masjid Jamek、Pasar Seni、Bandar Tasik Selatan、TBS 和 Melaka Sentral 的换乘说明。
 - 增加行李较多、天气炎热和车票不足时的替代方案。
 
+
+## 2026-09-20 - v1.2
+
+- 为 Day 2 增加中英双语交通地点记忆点。
+- 补充 PWTC、Masjid Jamek、Pasar Seni、Bandar Tasik Selatan、TBS 和 Melaka Sentral 的换乘方向。
+- 采用线路、方向和目的地记忆方式，不固定可能变化的站台编号。
+
