@@ -220,13 +220,77 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 - [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
 ## Day 3 · 10/17：马六甲慢游与海峡日落
 
-- 上午慢游 A Famosa、St. Paul's Hill 和历史城区
-- 中午安排娘惹菜
-- 下午回酒店午睡、游泳、逛商场、喝咖啡或整理造型
-- 约 16:30 出发前往 Melaka Straits Mosque
-- 完整预留黄金时刻、日落、蓝调时刻和清真寺亮灯
-- 晚上回古城吃饭、河边散步；有体力再继续逛鸡场街
+### 今日目标
 
+这是整个旅程最完整、也最适合放慢节奏的一天。上午感受马六甲历史城区，中午安排娘惹菜，下午回 Hatten Hotel 休息和整理造型，傍晚把主要时间留给马六甲海峡清真寺的日落和夜景。
+
+### 时间线
+
+| 时段 | 安排 | 说明 |
+| --- | --- | --- |
+| 上午 | Hatten Hotel → A Famosa、St. Paul's Hill、历史城区 | 以步行、建筑和拍照为主，不追求参观所有博物馆 |
+| 中午 | 马六甲古城午餐 | 优先考虑娘惹菜，饭后找地方坐下来休息 |
+| 下午 | 返回酒店午睡、游泳、逛商场、喝咖啡和换衣服 | 避开炎热时段，为傍晚拍摄保存体力 |
+| 傍晚 | 前往 Melaka Straits Mosque / 马六甲海峡清真寺 | 预留黄金时刻、日落、蓝调时刻和清真寺亮灯 |
+| 晚上 | 返回古城，晚餐、河边散步或继续逛鸡场街 | 根据体力决定是否延长夜间活动 |
+
+### 地点说明
+
+#### [A Famosa / 圣地亚哥城门](https://www.google.com/maps/search/?api=1&query=A+Famosa+Porta+de+Santiago+Melaka)
+
+A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹之一，适合和 St. Paul's Hill 放在同一段步行路线中。这里不需要停留太久，重点是了解马六甲作为海上贸易和殖民历史交汇地的城市背景，并完成古城建筑照片。
+
+#### [St. Paul's Hill / 圣保罗山](https://www.google.com/maps/search/?api=1&query=St+Pauls+Hill+Melaka)
+
+圣保罗山位于历史城区高处，可以把它当作上午路线中较需要体力的一段。上山前准备好饮水和防晒，山上适合拍城市和古城的高位视角；如果天气过热或有人不舒服，可以缩短停留，不必强行完成全程。
+
+#### [Melaka Straits Mosque / 马六甲海峡清真寺](https://www.google.com/maps/search/?api=1&query=Melaka+Straits+Mosque)
+
+这是 Day 3 的最高优先级地点。清真寺位于海峡一侧，最值得体验的是从太阳还未完全落下开始，连续观察黄金时刻、日落、蓝调时刻和建筑亮灯后的变化。拍摄时注意尊重宗教场所规定，进入建筑或拍摄人物前遵守现场指引。
+
+#### [Melaka River / 马六甲河](https://www.google.com/maps/search/?api=1&query=Melaka+River+Walk)
+
+马六甲河适合安排在晚餐前后作为轻松散步路线，不需要专门制定复杂计划。若大家已经疲惫，河边散步可以取消，直接在古城用餐后回酒店。
+
+### 餐饮安排（待确认）
+
+- 午餐优先安排娘惹菜，这是 Day 3 的餐饮重点。
+- 晚餐根据海峡清真寺返回时间，在古城或鸡场街附近选择。
+- 餐厅先维护候选，不提前锁死；4 人共同确认忌口、预算和是否需要预约。
+- 甜品或饮品可考虑 Cendol、椰子饮品和马六甲当地小吃。
+
+### 当天交通建议
+
+- 上午历史城区：从 Hatten Hotel 步行或短途 Grab 前往古城入口，根据天气决定是否全程步行。
+- 午餐后：回 Hatten Hotel 午休、游泳和换衣服。
+- 傍晚前往海峡清真寺：4 人优先使用 Grab，提前确认车辆能容纳 4 人；出发前把目的地设为 Melaka Straits Mosque。
+- 清真寺返回古城：根据叫车等待时间和大家体力决定直接回酒店、回古城或在附近用餐。
+- 晚上：古城内部以步行和短途 Grab 为主，不再安排跨区域景点。
+
+### 拍照与穿搭建议
+
+- 上午古城适合轻便、透气和方便步行的服装。
+- 下午回酒店安排完整换装和补妆，傍晚使用第二套拍照服装。
+- 海峡清真寺至少拍四组光线：日落前、黄金时刻、蓝调时刻和亮灯后。
+- 清真寺属于宗教场所，服装和拍摄行为要遵守现场要求；准备一件可遮肩的薄外套更稳妥。
+- 四人合照建议分为建筑远景、海边人物和亮灯后的夜景三组，不必每个时段都反复拍摄。
+
+### 弹性规则
+
+- 上午起晚：A Famosa、St. Paul's Hill 和历史城区不必全部完成，优先保留最感兴趣的两个点。
+- 天气炎热：缩短上午步行，尽早回酒店休息。
+- 下午下雨：保留酒店休息和换装，等待傍晚天气变化；必要时取消海峡清真寺，改为古城室内活动。
+- 海峡清真寺拍摄顺利：晚上不再安排额外景点，回古城吃饭和散步即可。
+- 大家疲惫：保留海峡日落，取消晚上的鸡场街延长路线。
+
+### 地点链接 / Google Maps Links
+
+- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
+- [A Famosa / 圣地亚哥城门](https://www.google.com/maps/search/?api=1&query=A+Famosa+Porta+de+Santiago+Melaka)
+- [St. Paul's Hill / 圣保罗山](https://www.google.com/maps/search/?api=1&query=St+Pauls+Hill+Melaka)
+- [Melaka Straits Mosque / 马六甲海峡清真寺](https://www.google.com/maps/search/?api=1&query=Melaka+Straits+Mosque)
+- [Melaka River Walk / 马六甲河](https://www.google.com/maps/search/?api=1&query=Melaka+River+Walk)
+- [Jonker Walk / 鸡场街](https://www.google.com/maps/search/?api=1&query=Jonker+Walk+Melaka)
 ## Day 4 · 10/18：马六甲 → KLIA2 → 广州
 
 - 睡醒后早餐、退房并寄存行李
@@ -244,6 +308,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 
