@@ -9,15 +9,15 @@
 
 ### 酒店 → 吉隆坡老城区
 
-Sunway Putra Hotel 与 PWTC LRT 站相连。前往茨厂街/鬼仔巷时，建议 PWTC → Masjid Jamek，换乘 Kelana Jaya Line 到 Pasar Seni，再步行进入 Petaling Street 一带。
+吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur 与 PWTC 站 / PWTC LRT Station相连。前往茨厂街/鬼仔巷时，建议 PWTC → Masjid Jamek 站 / Masjid Jamek Station，换乘 Kelana Jaya Line 到 Pasar Seni 站 / Pasar Seni Station，再步行进入 Petaling Street 一带。
 
 ### 酒店 → TBS
 
-取回行李后，从 PWTC 乘 Sri Petaling Line，往 Putra Heights 方向，在 Bandar Tasik Selatan 下车，沿连通通道前往 TBS - Terminal Bersepadu Selatan。
+取回行李后，从 PWTC 站 / PWTC LRT Station 乘 Sri Petaling Line，往 Putra Heights 方向，在 Bandar Tasik Selatan 下车，沿连通通道前往 TBS - Terminal Bersepadu Selatan。
 
 ### TBS → Melaka Sentral
 
-购买前往 Melaka Sentral 的公共汽车票。班次、票价和余票出发前再次确认；到达 Melaka Sentral 后，4 人带行李优先 Grab 前往 Hatten Hotel Melaka。
+购买前往 Melaka Sentral 的公共汽车票。班次、票价和余票出发前再次确认；到达 Melaka Sentral 后，4 人带行李优先 Grab 前往 马六甲惠胜酒店 / Hatten Hotel Melaka。
 
 ### 方案选择
 
@@ -27,7 +27,7 @@ Sunway Putra Hotel 与 PWTC LRT 站相连。前往茨厂街/鬼仔巷时，建�
 
 ## Day 2 地点记忆 / Bilingual Waypoints
 
-**Sunway Putra Hotel → PWTC LRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → Hatten Hotel Melaka**
+**吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur → PWTC LRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka**
 
 ### 车站与站台原则
 
@@ -39,7 +39,10 @@ Sunway Putra Hotel 与 PWTC LRT 站相连。前往茨厂街/鬼仔巷时，建�
 
 ## Day 4 送机计划 / Departure Transfer
 
-- 计划方案：Trip.com 送机，Hatten Hotel Melaka → Kuala Lumpur International Airport T2。
+- 计划方案：Trip.com 送机，马六甲惠胜酒店 / Hatten Hotel Melaka → Kuala Lumpur International Airport T2。
 - 目标：约 13:00 前抵达 KUL T2，航班为 16:35 的 AK116。
 - 待确认：订单是否预订成功、司机联系方式、车辆容量、行李数量和上车时间。
 - 备用方案：Trip.com 未确认或延误时，改用 Grab 6-seater 或其他 4 人直达车辆。
+
+
+

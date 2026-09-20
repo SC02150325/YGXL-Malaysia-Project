@@ -121,7 +121,7 @@ Petaling Street 茨厂街
 
 直接前往马六甲。
 
-抵达 Hatten Hotel 后：
+抵达 马六甲惠胜酒店 / Hatten Hotel Melaka 后：
 
 休息
 换衣服
@@ -174,7 +174,7 @@ St. Paul's Hill
 
 不安排景点。
 
-回 Hatten Hotel：
+回 马六甲惠胜酒店 / Hatten Hotel Melaka：
 
 午睡
 游泳
@@ -407,4 +407,6 @@ Cendol
 也不要：
 
 4天赶完30个景点。
+
+
 

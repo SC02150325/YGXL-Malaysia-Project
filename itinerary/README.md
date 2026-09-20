@@ -9,12 +9,12 @@
 
 ### 酒店 / Hotels
 
-- 吉隆坡 / Kuala Lumpur：Sunway Putra Hotel Kuala Lumpur，Sunway Putra Mall, 100 Jalan Putra, Chow Kit, 50350 Kuala Lumpur
-- 马六甲 / Melaka：Hatten Hotel Melaka，Jalan Merdeka, Banda Hilir, 75000 Melaka
+- 吉隆坡 / Kuala Lumpur：吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur，Sunway Putra Mall, 100 Jalan Putra, Chow Kit, 50350 Kuala Lumpur
+- 马六甲 / Melaka：马六甲惠胜酒店 / Hatten Hotel Melaka，Jalan Merdeka, Banda Hilir, 75000 Melaka
 
 ### 全程记忆路线 / Route Memory
 
-**广州白云 T3 → 吉隆坡 KUL T2 → Sunway Putra Hotel → KLCC → 马六甲 Hatten Hotel → Dutch Square / Jonker Walk → Melaka Straits Mosque → KUL T2 → 广州白云 T3**
+**广州白云 T3 → 吉隆坡 KUL T2 → 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur → KLCC → 马六甲惠胜酒店 / Hatten Hotel Melaka → Dutch Square / Jonker Walk → Melaka Straits Mosque → KUL T2 → 广州白云 T3**
 
 其中机场和两家酒店是全程必经地点；KLCC、Dutch Square / Jonker Walk 和 Melaka Straits Mosque 是主要体验地点；Saloma Link 是可根据体力和天气取消的补充地点。
 这里维护每日的详细路线。根目录 [README](../README.md) 只展示总计划和快速入口。
@@ -29,7 +29,7 @@
 
 | 时段 | 安排 | 说明 |
 | --- | --- | --- |
-| 下午 | 抵达 KUL T2，完成入境、取行李并与接机司机会合 | 司机接到 4 人后直接前往 Sunway Putra Hotel Kuala Lumpur |
+| 下午 | 抵达 KUL T2，完成入境、取行李并与接机司机会合 | 司机接到 4 人后直接前往 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur |
 | 下午 | 酒店入住、泳池休息和观景 | 先放松、看看城市景观，再回房间换衣服和补妆 |
 | 傍晚 | 前往 KLCC 和 Petronas Twin Towers / 双子塔 | 以城市散步、双子塔拍照和周边用餐为主 |
 | 晚上 | 视体力前往 Saloma Link / 莎罗马行人天桥 | 作为补充夜景机位，下雨或疲劳时可以取消 |
@@ -37,7 +37,7 @@
 
 ### 酒店泳池休息
 
-入住 Sunway Putra Hotel 后，先不急着出门，安排一段泳池休息和观景时间：
+入住 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur 后，先不急着出门，安排一段泳池休息和观景时间：
 
 - 放下行李后前往酒店泳池，游泳、休息或欣赏周边城市景观。
 - 这段时间也可以作为换衣服、补妆和调整状态的缓冲。
@@ -49,7 +49,7 @@
 
 ### 地点链接 / Google Maps Links
 
-1. [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
+1. [吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
 2. [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
 3. [KLCC / Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers%2C+Kuala+Lumpur)
 4. [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link%2C+Lorong+Raja+Muda+Musa+3%2C+Kampung+Baru%2C+Kuala+Lumpur)
@@ -89,7 +89,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 ### 当天交通建议
 
 - 抵达 KUL T2 后，完成入境和取行李，前往到达出口与 Trip.com 接机司机会合。
-- 司机接到 4 人后，直接前往 Sunway Putra Hotel Kuala Lumpur。
+- 司机接到 4 人后，直接前往 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur。
 - 晚上在 KLCC 和 Saloma Link 之间移动时，根据天气、体力和现场人流决定是否步行或叫车。
 - 晚餐后直接回酒店，不再安排远距离夜景点。
 
@@ -111,24 +111,24 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 ### 今日目标
 
-上午在吉隆坡老城区慢慢游玩，下午回 Sunway Putra Hotel 取行李，再通过公共交通前往马六甲。今天区域跨度较大，重点是控制行李、减少折返，并给跨城交通预留足够弹性。
+上午在吉隆坡老城区慢慢游玩，下午回 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur 取行李，再通过公共交通前往马六甲。今天区域跨度较大，重点是控制行李、减少折返，并给跨城交通预留足够弹性。
 
 ### 时间线
 
 | 时段 | 安排 | 说明 |
 | --- | --- | --- |
-| 上午 | Sunway Putra Hotel → 鬼仔巷、茨厂街 | 不带大件行李，以街拍、建筑、咖啡和小吃为主 |
+| 上午 | 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur → 鬼仔巷、茨厂街 | 不带大件行李，以街拍、建筑、咖啡和小吃为主 |
 | 中午 | 吉隆坡老城区午餐和休息 | 不安排过多景点，保留回酒店取行李的时间 |
 | 下午 | 返回酒店取行李 → 前往 TBS | 行李多或天气炎热时，酒店到 TBS 可改用 Grab |
 | 下午至傍晚 | TBS → Melaka Sentral | 乘公共汽车前往马六甲，车次和余票出发前确认 |
-| 傍晚 | Melaka Sentral → Hatten Hotel Melaka | 带行李优先 Grab，先入住、放行李和休息 |
+| 傍晚 | Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka | 带行李优先 Grab，先入住、放行李和休息 |
 | 晚上 | 荷兰红屋、基督教堂、鸡场街夜市 | 视抵达时间和体力安排，累了就缩短路线 |
 
 ## Day 2 公共交通路线图 / Day 2 Public Transport Map
 
 ![Day 2 吉隆坡到马六甲公共交通路线图](./day2-route-map.webp)
 
-> 地图只保留 Day 2 需要的交通节点：酒店、PWTC、Bandar Tasik Selatan、TBS、Melaka Sentral 和 Hatten Hotel。路线颜色代表 LRT、步行、长途巴士和 Grab；实际站台和车次以当天车票、电子屏和现场指引为准。
+> 地图只保留 Day 2 需要的交通节点：酒店、PWTC、Bandar Tasik Selatan、TBS、Melaka Sentral 和 马六甲惠胜酒店 / Hatten Hotel Melaka。路线颜色代表 LRT、步行、长途巴士和 Grab；实际站台和车次以当天车票、电子屏和现场指引为准。
 ### 地点说明
 
 #### [Kwai Chai Hong / 鬼仔巷](https://www.google.com/maps/search/?api=1&query=Kwai+Chai+Hong+Kuala+Lumpur)
@@ -158,7 +158,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 #### 酒店 → 吉隆坡老城区
 
-1. 从 Sunway Putra Hotel 通过 Sunway Putra Mall 连通通道前往 PWTC LRT Station。
+1. 从 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur 通过 Sunway Putra Mall 连通通道前往 PWTC LRT Station。
 2. 乘 Ampang Line 或 Sri Petaling Line 前往 Masjid Jamek Station。
 3. 在 Masjid Jamek 换乘 Kelana Jaya Line，前往 Pasar Seni Station。
 4. 从 Pasar Seni 步行前往 Petaling Street，再步行或短途前往 Kwai Chai Hong。
@@ -179,14 +179,14 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 这一天看起来会经过多个地点，但核心只需要记住两件事：**上午轻装游览，下午集中转移**。
 
-- 不带大件行李去鬼仔巷和茨厂街：先寄存在 Sunway Putra Hotel，避免拖行李走老街和换乘。
+- 不带大件行李去鬼仔巷和茨厂街：先寄存在 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur，避免拖行李走老街和换乘。
 - 午餐后回酒店取行李虽然会产生一次折返，但比带着行李游览、寄存到陌生地点更稳定，也更容易控制物品安全。
 - 酒店到 TBS：行李少、天气好时走 LRT；行李多、天气热或时间紧时直接 Grab，4 人分摊后更舒服。
 - TBS 到 Melaka Sentral：建议提前确认并购买长途巴士票，目标是下午出发，不把抵达时间压到晚上太晚。
-- Melaka Sentral 到 Hatten Hotel：不再换乘市内公交，4 人带行李直接 Grab。
+- Melaka Sentral 到 马六甲惠胜酒店 / Hatten Hotel Melaka：不再换乘市内公交，4 人带行李直接 Grab。
 #### TBS → 马六甲酒店
 
-长途公共汽车到达 Melaka Sentral 后，4 人先集合并清点行李，再叫 Grab 前往 Hatten Hotel Melaka。当天不建议拖着行李换乘马六甲市内公交。
+长途公共汽车到达 Melaka Sentral 后，4 人先集合并清点行李，再叫 Grab 前往 马六甲惠胜酒店 / Hatten Hotel Melaka。当天不建议拖着行李换乘马六甲市内公交。
 
 ### 拍照与穿搭建议
 
@@ -201,49 +201,49 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 - 老城区逛得开心：保证午后按时回酒店取行李，避免影响巴士。
 - 行李多或下雨：酒店 → TBS 使用 Grab，保留 TBS → Melaka Sentral 的公共汽车。
 - 长途车延误：入住后只逛鸡场街，不强行完成整套古城路线。
-- 大家疲惫：晚餐和夜市结束后直接回 Hatten Hotel。
+- 大家疲惫：晚餐和夜市结束后直接回 马六甲惠胜酒店 / Hatten Hotel Melaka。
 
 ### 交通地点记忆 / Bilingual Waypoints
 
-**Sunway Putra Hotel → PWTC LRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → Hatten Hotel Melaka**
+**吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur → PWTC LRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka**
 
 | 顺序 | 中文地点 | English | 作用 |
 | --- | --- | --- | --- |
-| 1 | 双威布特拉酒店 | Sunway Putra Hotel Kuala Lumpur | 出发点、取行李点 |
+| 1 | 吉隆坡双威太子酒店 | Sunway Putra Hotel Kuala Lumpur | 出发点、取行李点 |
 | 2 | PWTC 轻轨站 | PWTC LRT Station | 酒店附近上车点 |
-| 3 | 清真寺占美站 | Masjid Jamek Station | 去老城区时的换乘点 |
-| 4 | 巴刹南市场站 | Pasar Seni Station | 茨厂街、鬼仔巷方向 |
+| 3 | Masjid Jamek 站 | Masjid Jamek Station | 去老城区时的换乘点 |
+| 4 | Pasar Seni 站 | Pasar Seni Station | 茨厂街、鬼仔巷方向 |
 | 5 | 南湖镇站 | Bandar Tasik Selatan Station | 前往 TBS 的下车点 |
 | 6 | 南湖镇综合交通总站 | TBS - Terminal Bersepadu Selatan | 长途巴士出发总站 |
 | 7 | 马六甲中央车站 | Melaka Sentral | 长途巴士到达站 |
-| 8 | 哈登酒店马六甲 | Hatten Hotel Melaka | 马六甲入住点 |
+| 8 | 马六甲惠胜酒店 | Hatten Hotel Melaka | 马六甲入住点 |
 
 > 站台编号和具体候车区以当天车票、电子屏和工作人员指引为准。路线图用于记忆交通顺序，实际车次、站台和道路情况以当天现场信息为准。
 
 ### 地点链接 / Google Maps Links
 
-- [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
+- [吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
 - [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
-- [Masjid Jamek Station / 清真寺占美站](https://www.google.com/maps/search/?api=1&query=Masjid+Jamek+LRT+Station%2C+Kuala+Lumpur)
-- [Pasar Seni Station / 巴刹南市场站](https://www.google.com/maps/search/?api=1&query=Pasar+Seni+Station%2C+Kuala+Lumpur)
+- [Masjid Jamek 站 / Masjid Jamek Station](https://www.google.com/maps/search/?api=1&query=Masjid+Jamek+LRT+Station%2C+Kuala+Lumpur)
+- [Pasar Seni 站 / Pasar Seni Station](https://www.google.com/maps/search/?api=1&query=Pasar+Seni+Station%2C+Kuala+Lumpur)
 - [Petaling Street / 茨厂街](https://www.google.com/maps/search/?api=1&query=Petaling+Street+Chinatown+Kuala+Lumpur)
 - [Kwai Chai Hong / 鬼仔巷](https://www.google.com/maps/search/?api=1&query=Kwai+Chai+Hong+Kuala+Lumpur)
-- [Bandar Tasik Selatan Station / 南湖镇站](https://www.google.com/maps/search/?api=1&query=Bandar+Tasik+Selatan+Station+Kuala+Lumpur)
+- [Bandar Tasik Selatan 站 / Bandar Tasik Selatan Station](https://www.google.com/maps/search/?api=1&query=Bandar+Tasik+Selatan+Station+Kuala+Lumpur)
 - [TBS - Terminal Bersepadu Selatan](https://www.google.com/maps/search/?api=1&query=Terminal+Bersepadu+Selatan+TBS+Kuala+Lumpur)
 - [Melaka Sentral / 马六甲中央车站](https://www.google.com/maps/search/?api=1&query=Melaka+Sentral)
 - [Encore Melaka / 又见马六甲](https://www.google.com/maps/search/?api=1&query=Encore+Melaka)
-- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
+- [马六甲惠胜酒店 / Hatten Hotel Melaka](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
 ## Day 3 · 10/17：马六甲慢游与海峡日落
 
 ### 今日目标
 
-这是整个旅程最完整、也最适合放慢节奏的一天。上午感受马六甲历史城区，中午安排娘惹菜，下午回 Hatten Hotel 休息和整理造型，傍晚把主要时间留给马六甲海峡清真寺的日落和夜景。
+这是整个旅程最完整、也最适合放慢节奏的一天。上午感受马六甲历史城区，中午安排娘惹菜，下午回 马六甲惠胜酒店 / Hatten Hotel Melaka 休息和整理造型，傍晚把主要时间留给马六甲海峡清真寺的日落和夜景。
 
 ### 时间线
 
 | 时段 | 安排 | 说明 |
 | --- | --- | --- |
-| 上午 | Hatten Hotel → A Famosa、St. Paul's Hill、历史城区 | 以步行、建筑和拍照为主，不追求参观所有博物馆 |
+| 上午 | 马六甲惠胜酒店 / Hatten Hotel Melaka → A Famosa、St. Paul's Hill、历史城区 | 以步行、建筑和拍照为主，不追求参观所有博物馆 |
 | 中午 | 马六甲古城午餐 | 优先考虑娘惹菜，饭后找地方坐下来休息 |
 | 下午 | 返回酒店午睡、游泳、逛商场、喝咖啡和换衣服 | 避开炎热时段，为傍晚拍摄保存体力 |
 | 傍晚 | 前往 Melaka Straits Mosque / 马六甲海峡清真寺 | 预留黄金时刻、日落、蓝调时刻和清真寺亮灯 |
@@ -281,8 +281,8 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 
 ### 当天交通建议
 
-- 上午历史城区：从 Hatten Hotel 步行或短途 Grab 前往古城入口，根据天气决定是否全程步行。
-- 午餐后：回 Hatten Hotel 午休、游泳和换衣服。
+- 上午历史城区：从 马六甲惠胜酒店 / Hatten Hotel Melaka 步行或短途 Grab 前往古城入口，根据天气决定是否全程步行。
+- 午餐后：回 马六甲惠胜酒店 / Hatten Hotel Melaka 午休、游泳和换衣服。
 - 傍晚前往海峡清真寺：4 人优先使用 Grab，提前确认车辆能容纳 4 人；出发前把目的地设为 Melaka Straits Mosque。
 - 清真寺返回古城：根据叫车等待时间和大家体力决定直接回酒店、回古城或在附近用餐。
 - 晚上：古城内部以步行和短途 Grab 为主，不再安排跨区域景点。
@@ -306,7 +306,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 ### 地点链接 / Google Maps Links
 
 - [Encore Melaka / 又见马六甲](https://www.google.com/maps/search/?api=1&query=Encore+Melaka)
-- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
+- [马六甲惠胜酒店 / Hatten Hotel Melaka](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
 - [A Famosa / 圣地亚哥城门](https://www.google.com/maps/search/?api=1&query=A+Famosa+Porta+de+Santiago+Melaka)
 - [St. Paul's Hill / 圣保罗山](https://www.google.com/maps/search/?api=1&query=St+Pauls+Hill+Melaka)
 - [Melaka Straits Mosque / 马六甲海峡清真寺](https://www.google.com/maps/search/?api=1&query=Melaka+Straits+Mosque)
@@ -323,7 +323,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 | 时段 | 安排 | 说明 |
 | --- | --- | --- |
 | 上午 | 起床、早餐、整理行李 | 逐人确认护照、手机、钱包、充电宝和登机信息 |
-| 上午 | 退房并寄存行李 | 向 Hatten Hotel 确认行李寄存和最晚取行李时间 |
+| 上午 | 退房并寄存行李 | 向 马六甲惠胜酒店 / Hatten Hotel Melaka 确认行李寄存和最晚取行李时间 |
 | 上午 | 酒店附近散步、咖啡、伴手礼和补拍照片 | 只安排步行范围内活动，随时可以取消 |
 | 约 11:00 | 返回酒店取行李 | 预留集合、清点行李和等待送机车辆的时间 |
 | 约 11:30 | Trip.com 送机服务前往 KUL T2 | 送机服务目前为计划方案，出发前确认订单、车辆和接送时间 |
@@ -333,7 +333,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 
 ### 地点说明
 
-#### [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
+#### [马六甲惠胜酒店 / Hatten Hotel Melaka](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
 
 这是 Day 4 的集合、取行李和送机出发点。早上不建议离酒店太远，所有活动都要服从送机时间。
 
@@ -379,7 +379,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 
 ### 地点链接 / Google Maps Links
 
-- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
+- [马六甲惠胜酒店 / Hatten Hotel Melaka](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
 - [Kuala Lumpur International Airport T2 / 吉隆坡国际机场 T2](https://www.google.com/maps/search/?api=1&query=Kuala+Lumpur+International+Airport+Terminal+2)
 ## 节奏模板
 
@@ -390,6 +390,9 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
+
+
 
 
 
