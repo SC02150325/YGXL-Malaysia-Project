@@ -69,15 +69,85 @@ Saloma Link 适合作为双子塔之后的补充机位，可以拍桥体灯光�
 - 下午体力不足：酒店休息时间延长，晚餐就在 KLCC 解决。
 - 天气不好：改为 KLCC 商场、室内用餐和短距离拍照。
 - 大家特别喜欢 KLCC：可以停留更久，不需要为了完成后续地点赶路。
-## Day 2 · 10/16：吉隆坡街区 → 马六甲夜市
+## Day 2 · 10/16：吉隆坡街区 → 公共交通前往马六甲
 
-- 上午睡够后前往 Kwai Chai Hong 鬼仔巷、Petaling Street 茨厂街
-- 以街拍、南洋建筑、咖啡馆和吃东西为主
-- 午餐后回酒店取行李，前往马六甲
-- 入住 Hatten Hotel 后休息、换衣服、补妆
-- 傍晚游览 Dutch Square、Christ Church、Jonker Walk
-- 周五晚上重点安排夜市、古城拍照和马六甲河夜景
+### 今日目标
 
+上午在吉隆坡酒店附近和老城区慢慢游玩，下午回酒店取行李，再通过公共交通前往马六甲。行李不要带去上午的街区游览，先寄存在 Sunway Putra Hotel，减少换乘负担。
+
+### 时间线
+
+| 时间 | 安排 | 说明 |
+| --- | --- | --- |
+| 08:30-09:30 | 起床、早餐、整理行李 | 退房前把大件行李寄存在酒店前台，随身只带小包 |
+| 09:30-10:00 | 酒店 → PWTC LRT 站 | Sunway Putra Hotel 与 PWTC LRT 站和 Sunway Putra Mall 相连，先确认回酒店取行李的路线 |
+| 10:00-12:30 | 鬼仔巷、茨厂街一带 | 以街拍、南洋建筑、咖啡和小吃为主，不安排大量博物馆 |
+| 12:30-13:30 | 午餐、咖啡 | 预留坐下来休息的时间 |
+| 13:30-14:00 | 返回酒店 | 建议从 Pasar Seni 返回 Masjid Jamek，再换乘 Sri Petaling Line 到 PWTC；也可以根据当时行李和体力选择 Grab |
+| 14:00-14:30 | 取行李、前往 TBS | 从 PWTC 乘 Sri Petaling Line，往 Putra Heights 方向，在 Bandar Tasik Selatan 下车，按连通通道前往 TBS |
+| 14:30-15:00 | TBS 办理乘车 | 找到前往 Melaka Sentral 的车次，预留购票、找站台和上洗手间时间 |
+| 约 15:00-17:30 | TBS → Melaka Sentral | 公共汽车车程会受交通影响，具体班次和票价出发前再次确认 |
+| 17:30-18:00 | Melaka Sentral → Hatten Hotel | 带行李建议 Grab，直接前往酒店，不建议第一次到达时拖行李换乘市内公交 |
+| 18:00 以后 | 入住、休息、换衣服 | 之后再前往 Dutch Square、Christ Church 和 Jonker Walk |
+
+### 上午：酒店附近与吉隆坡老城区
+
+#### 1. 从 Sunway Putra Hotel 到 PWTC LRT 站
+
+酒店与 Sunway Putra Mall 相连，PWTC LRT 站位于商场附近。出门后先通过酒店/商场的连通通道找到 PWTC 站，不需要先叫车去市中心。
+
+#### 2. PWTC → 茨厂街 / 鬼仔巷
+
+建议路线：
+
+1. 在 PWTC 站乘坐 Ampang Line 或 Sri Petaling Line，前往 Masjid Jamek。
+2. 在 Masjid Jamek 换乘 Kelana Jaya Line，前往 Pasar Seni。
+3. 从 Pasar Seni 步行前往 Petaling Street 茨厂街，再根据体力前往 Kwai Chai Hong 鬼仔巷。
+4. 上午以一个步行区域为主，途中安排咖啡和小吃，不要继续扩展到过多景点。
+
+### 下午：从酒店去 TBS，再坐公共汽车去马六甲
+
+#### 1. 回酒店取行李
+
+上午游览时不要携带大件行李。午餐后按原路返回酒店，取出寄存行李，并在酒店洗手间整理、补水和短暂休息。
+
+#### 2. Sunway Putra Hotel → TBS
+
+推荐公共交通路线：
+
+1. 从酒店通过 Sunway Putra Mall 连通通道到 PWTC LRT 站。
+2. 乘坐 Sri Petaling Line，方向选择 **Putra Heights**。
+3. 在 **Bandar Tasik Selatan** 站下车。
+4. 按站内指示通过连通通道前往 **TBS - Terminal Bersepadu Selatan**。
+5. 到 TBS 后确认目的地为 **Melaka Sentral**，不要误买成其他马六甲站点。
+
+这段路线的优点是费用较低、路线清楚；缺点是需要拖行李换乘。若 4 人行李较多、天气很热或出发较晚，可以把“酒店 → TBS”改为 Grab，保留 TBS → Melaka Sentral 的公共汽车。
+
+#### 3. TBS → Melaka Sentral
+
+- 购票目的地：**Melaka Sentral / 马六甲中央车站**。
+- 购票时确认出发日期为 10 月 16 日、人数为 4 人，并尽量安排相邻座位。
+- 车程通常约 2-3 小时，受道路交通影响；不要把抵达时间安排得过于紧凑。
+- 上车前购买饮水和简单零食，贵重物品和护照放在随身包。
+- 到达后先确认 4 人和行李齐全，再叫 Grab 去 Hatten Hotel。
+
+#### 4. Melaka Sentral → Hatten Hotel Melaka
+
+从 Melaka Sentral 到 Hatten Hotel 带着行李时优先选择 Grab，目的地输入：**Hatten Hotel Melaka, Jalan Merdeka, Banda Hilir, Melaka**。到酒店后先办理入住，再决定是否马上去古城；如果公共汽车延误，直接把夜市路线缩短为酒店附近晚餐和休息。
+
+### 晚上：入住后的轻松路线
+
+- 酒店入住、放行李、换衣服和补妆
+- 体力正常：Dutch Square → Christ Church → Jonker Walk
+- 想吃东西：以鸡场街夜市为主，不再额外安排远距离景点
+- 体力不足或抵达较晚：酒店附近晚餐，第二天再完整游览
+
+### 行李与交通注意事项
+
+- 上午只带随身小包，护照、手机、钱包、充电宝随身保管。
+- 大件行李寄存前确认酒店领取凭证和前台营业情况。
+- TBS 和 Melaka Sentral 都是公共交通枢纽，提前截图车票、站名和酒店地址。
+- 具体车次、票价和余票在出发前确认；本计划只固定路线，不固定某一班车。
 ## Day 3 · 10/17：马六甲慢游与海峡日落
 
 - 上午慢游 A Famosa、St. Paul's Hill 和历史城区
@@ -104,6 +174,7 @@ Saloma Link 适合作为双子塔之后的补充机位，可以拍桥体灯光�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 
