@@ -36,3 +36,10 @@ Sunway Putra Hotel 与 PWTC LRT 站相连。前往茨厂街/鬼仔巷时，建�
 - Masjid Jamek → Pasar Seni：换乘 Kelana Jaya Line。
 - 返回 TBS：从 Pasar Seni 返回 Masjid Jamek，再换 Sri Petaling Line，往 Putra Heights 方向，在 Bandar Tasik Selatan 下车。
 - TBS 和 Melaka Sentral 是长途巴士总站，具体候车区、站台和闸口以当天车票和电子屏为准。
+
+## Day 4 送机计划 / Departure Transfer
+
+- 计划方案：Trip.com 送机，Hatten Hotel Melaka → Kuala Lumpur International Airport T2。
+- 目标：约 13:00 前抵达 KUL T2，航班为 16:35 的 AK116。
+- 待确认：订单是否预订成功、司机联系方式、车辆容量、行李数量和上车时间。
+- 备用方案：Trip.com 未确认或延误时，改用 Grab 6-seater 或其他 4 人直达车辆。

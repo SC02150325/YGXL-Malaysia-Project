@@ -92,7 +92,7 @@
 ## 4. 城际与市内交通
 
 - [ ] 确定吉隆坡到马六甲的交通方式、时间、费用和负责人
-- [ ] 确定马六甲到 KUL T2 的交通方式、最晚出发时间和备用方案
+- [ ] 确认 Trip.com 送机订单、司机、车辆、行李容量和上车时间`r`n- [ ] 确定马六甲到 KUL T2 的最晚出发时间和备用方案
 - [ ] 确定市内 Grab 使用方式、付款人和费用分摊方式
 - [ ] 确认 4 人行李数量适合所选车型
 
@@ -134,7 +134,7 @@
 
 ## 出发前 24 小时
 
-- [ ] 查看航班状态、天气、接机消息和酒店通知
+- [ ] 查看航班状态、天气、接机消息、送机消息和酒店通知
 - [ ] 确认 4 人手机、充电设备、护照和钱包
 - [ ] 将最新计划离线保存
 
@@ -150,3 +150,4 @@
 - [马来西亚移民局：签证与入境要求](https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/)
 - [马来西亚移民局：FAQ](https://www.imi.gov.my/index.php/en/contact-us/frequently-ask-question/)
 - [亚航：国际航班入境与出发提示](https://www.airasia.com/cdn/docs/en-MY-docs/arrival-departure-flyer.pdf)
+
