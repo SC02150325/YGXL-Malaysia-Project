@@ -218,6 +218,11 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 - [TBS - Terminal Bersepadu Selatan](https://www.google.com/maps/search/?api=1&query=Terminal+Bersepadu+Selatan+TBS+Kuala+Lumpur)
 - [Melaka Sentral / 马六甲中央车站](https://www.google.com/maps/search/?api=1&query=Melaka+Sentral)
 - [Encore Melaka / 又见马六甲](https://www.google.com/maps/search/?api=1&query=Encore+Melaka)`r`n- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
+## Day 2 公共交通路线图 / Day 2 Public Transport Map
+
+![Day 2 吉隆坡到马六甲公共交通路线图](./day2-route-map.webp)
+
+> 地图只保留 Day 2 需要的交通节点：酒店、PWTC、Bandar Tasik Selatan、TBS、Melaka Sentral 和 Hatten Hotel。路线颜色代表 LRT、步行、长途巴士和 Grab；实际站台和车次以当天车票、电子屏和现场指引为准。
 ## Day 3 · 10/17：马六甲慢游与海峡日落
 
 ### 今日目标
@@ -313,6 +318,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 
