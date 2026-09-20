@@ -109,3 +109,9 @@
 - 为 Day 1 新增带标记的静态路线图。
 - 在行程下方增加 Sunway Putra Hotel、PWTC、KLCC 和 Saloma Link 的 Google Maps 可点击链接。
 
+
+## 2026-09-20 - v1.6
+
+- 将 Day 1 路线图和 Google Maps 链接移动到 Day 1 全部计划的最后。
+- 保持 Day 1 先看行程安排、最后复习路线地图的阅读顺序。
+
