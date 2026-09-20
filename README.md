@@ -6,6 +6,34 @@
 
 这是本次旅行的 GitHub 总入口。打开页面后先看每日总计划，再通过详细资料进入餐厅、交通、拍照机位和预算等专题内容。
 
+## 关键资料 / Key Information
+
+### 航班 / Flights
+
+| 类型 | 中文信息 | English |
+| --- | --- | --- |
+| 去程 / Outbound | 10/15 广州白云机场 T3 10:20 → 吉隆坡国际机场 T2 14:40 | AirAsia AK113 · Guangzhou CAN T3 → Kuala Lumpur KUL T2 |
+| 返程 / Return | 10/18 吉隆坡国际机场 T2 16:35 → 广州白云机场 T3 20:55 | AirAsia AK116 · Kuala Lumpur KUL T2 → Guangzhou CAN T3 |
+
+### 酒店 / Hotels
+
+| 日期 | 中文 | English | 地址 / Address |
+| --- | --- | --- | --- |
+| 10/15-10/16 | 吉隆坡 Sunway Putra Hotel | Sunway Putra Hotel Kuala Lumpur | Sunway Putra Mall, 100 Jalan Putra, Chow Kit, 50350 Kuala Lumpur, Malaysia |
+| 10/16-10/18 | 马六甲 Hatten Hotel | Hatten Hotel Melaka | Jalan Merdeka, Banda Hilir, 75000 Melaka, Malaysia |
+
+### 必经地点 / Must-pass Locations
+
+| 标记 | 地点 | 用途 |
+| --- | --- | --- |
+| **必经** | 广州白云机场 T3 / Guangzhou Baiyun Airport T3 | 去程集合、值机、托运和出境 |
+| **必经** | 吉隆坡国际机场 T2 / Kuala Lumpur International Airport T2 | 入境、取行李、接机；返程值机和登机 |
+| **必经** | Sunway Putra Hotel Kuala Lumpur | 吉隆坡住宿、第一晚出发点 |
+| **必经** | Hatten Hotel Melaka | 马六甲住宿、第二天和第三天休息点 |
+| **重点** | KLCC / Petronas Twin Towers | 第一天城市夜景和主要拍照点 |
+| **重点** | Dutch Square / Jonker Walk | 马六甲古城、夜市和拍照区域 |
+| **重点** | Melaka Straits Mosque | 第三天海峡日落和主要拍照点 |
+| **可选** | Saloma Link | 第一天双子塔之后的补充夜景机位 |
 ## 每日总计划
 
 ### [Day 1 · 10/15：吉隆坡夜景](./itinerary/README.md#day-1--1015吉隆坡夜景)
@@ -73,3 +101,4 @@ git commit -m "补充马六甲餐厅候选"
 | Y | 男 / male |
 | G | 女 / female |
 | X | 女 / female |
+

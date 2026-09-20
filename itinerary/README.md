@@ -1,5 +1,22 @@
 # 每日行程
 
+## 关键地点速记 / Key Places
+
+### 航班 / Flights
+
+- 去程 / Outbound：AK113，10/15 广州 CAN T3 10:20 → 吉隆坡 KUL T2 14:40
+- 返程 / Return：AK116，10/18 吉隆坡 KUL T2 16:35 → 广州 CAN T3 20:55
+
+### 酒店 / Hotels
+
+- 吉隆坡 / Kuala Lumpur：Sunway Putra Hotel Kuala Lumpur，Sunway Putra Mall, 100 Jalan Putra, Chow Kit, 50350 Kuala Lumpur
+- 马六甲 / Melaka：Hatten Hotel Melaka，Jalan Merdeka, Banda Hilir, 75000 Melaka
+
+### 全程记忆路线 / Route Memory
+
+**广州白云 T3 → 吉隆坡 KUL T2 → Sunway Putra Hotel → KLCC → 马六甲 Hatten Hotel → Dutch Square / Jonker Walk → Melaka Straits Mosque → KUL T2 → 广州白云 T3**
+
+其中机场和两家酒店是全程必经地点；KLCC、Dutch Square / Jonker Walk 和 Melaka Straits Mosque 是主要体验地点；Saloma Link 是可根据体力和天气取消的补充地点。
 这里维护每日的详细路线。根目录 [README](../README.md) 只展示总计划和快速入口。
 
 ## Day 1 · 10/15：吉隆坡夜景
@@ -87,5 +104,6 @@ Saloma Link 适合作为双子塔之后的补充机位，可以拍桥体灯光�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
