@@ -19,6 +19,18 @@
 其中机场和两家酒店是全程必经地点；KLCC、Dutch Square / Jonker Walk 和 Melaka Straits Mosque 是主要体验地点；Saloma Link 是可根据体力和天气取消的补充地点。
 这里维护每日的详细路线。根目录 [README](../README.md) 只展示总计划和快速入口。
 
+## Day 1 路线图 / Day 1 Route Map
+
+![Day 1 吉隆坡路线图](./day1-route-map.png)
+
+### 地点链接 / Google Maps Links
+
+1. [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel+Kuala+Lumpur)
+2. [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station+Kuala+Lumpur)
+3. [KLCC / Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers+Kuala+Lumpur)
+4. [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur)
+
+> 路线图用于记忆地点和大致方向；实际步行、乘车和入口位置以当天 Google Maps、现场标识和交通情况为准。
 ## Day 1 · 10/15：吉隆坡夜景
 
 ### 今日目标
@@ -166,6 +178,7 @@ Saloma Link 适合作为双子塔之后的补充机位，可以拍桥体灯光�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 

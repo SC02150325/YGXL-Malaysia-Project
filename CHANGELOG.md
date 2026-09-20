@@ -103,3 +103,9 @@
 - 将 Day 1 时间线调整为与 Day 2 一致的粗粒度安排。
 - 保留 Day 1 的地点说明、交通、拍照和弹性规则作为详细参考。
 
+
+## 2026-09-20 - v1.5
+
+- 为 Day 1 新增带标记的静态路线图。
+- 在行程下方增加 Sunway Putra Hotel、PWTC、KLCC 和 Saloma Link 的 Google Maps 可点击链接。
+
