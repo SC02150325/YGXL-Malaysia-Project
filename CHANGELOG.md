@@ -172,3 +172,9 @@
 - 按统一结构制定 Day 3 马六甲慢游计划。
 - 确定上午历史城区、中午娘惹菜、下午酒店休息和傍晚海峡清真寺日落主线。
 - 增加 Day 3 地点说明、交通、拍照、弹性规则和 Google Maps 链接。
+
+## 2026-09-20 - v2.7
+
+- 为 Day 3 新增简化静态路线图。
+- 仅保留 Hatten Hotel、A Famosa、St. Paul's Hill、Dutch Square、Jonker Walk 和 Melaka Straits Mosque。
+- 用路线线区分上午历史城区路线和下午/傍晚海峡清真寺路线。

@@ -291,6 +291,11 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [Melaka Straits Mosque / 马六甲海峡清真寺](https://www.google.com/maps/search/?api=1&query=Melaka+Straits+Mosque)
 - [Melaka River Walk / 马六甲河](https://www.google.com/maps/search/?api=1&query=Melaka+River+Walk)
 - [Jonker Walk / 鸡场街](https://www.google.com/maps/search/?api=1&query=Jonker+Walk+Melaka)
+## Day 3 路线图 / Day 3 Route Map
+
+![Day 3 马六甲路线图](./day3-route-map.png)
+
+> 地图只保留 Day 3 需要的酒店、历史城区地点和马六甲海峡清真寺；路线用于记忆大致方向，实际道路和到达时间以当天导航为准。
 ## Day 4 · 10/18：马六甲 → KLIA2 → 广州
 
 - 睡醒后早餐、退房并寄存行李
@@ -308,6 +313,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 
