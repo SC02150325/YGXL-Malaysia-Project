@@ -1,5 +1,30 @@
-# 预算
+# 预算 / Budget
 
-按 4 人总额和人均金额记录航班住宿、城际交通、市内交通、餐饮、门票、购物、网络保险和备用金。
+## 已产生费用记录 / Incurred Expenses
 
-每笔金额记录币种、人数、是否含税、价格日期和来源。
+以下项目已经产生或已经确认发生，金额暂按公开项目可保留的信息记录；金额未知的项目标记为“待补录”，后续可根据付款记录补充。
+
+| 日期 | 类别 | 项目 / Item | 总额 | 人数 | 人均 | 币种 | 含税 | 状态 / 来源 |
+| --- | --- | --- | ---: | ---: | ---: | --- | --- | --- |
+| 2026/09/19 | 航班与住宿 / Flight & Hotel | AirAsia AK113 + Sunway Putra Hotel Kuala Lumpur | 待补录 | 4 | 待补录 | 待确认 | 待确认 | 已预订 / Trip.com 订单 |
+| 2026/09/19 | 航班与住宿 / Flight & Hotel | AirAsia AK116 + Hatten Hotel Melaka | 待补录 | 4 | 待补录 | 待确认 | 待确认 | 已预订 / Trip.com 订单 |
+| 待确认 | 机场接送 / Airport Transfer | KUL T2 → Sunway Putra Hotel Kuala Lumpur | 待补录 | 4 | 待补录 | 待确认 | 待确认 | 已安排 / Trip.com 接机 |
+| 待确认 | 机场送机 / Departure Transfer | Hatten Hotel Melaka → KUL T2 | 待补录 | 4 | 待补录 | 待确认 | 待确认 | 计划方案 / Trip.com 送机 |
+
+## 后续费用记录 / Upcoming Expenses
+
+| 类别 | 项目 / Item | 预算总额 | 实际总额 | 人数 | 人均 | 币种 | 备注 |
+| --- | --- | ---: | ---: | ---: | ---: | --- | --- |
+| 城际交通 / Intercity Transport | TBS → Melaka Sentral 长途巴士 | 待补录 | 待补录 | 4 | 待补录 | MYR | 车次和票价出发前确认 |
+| 市内交通 / Local Transport | LRT、Grab | 待补录 | 待补录 | 4 | 待补录 | MYR | 按实际乘坐记录 |
+| 餐饮 / Food | 吉隆坡、马六甲餐饮 | 待补录 | 待补录 | 4 | 待补录 | MYR | 保留小票或付款截图 |
+| 门票 / Tickets | 景点或体验门票 | 待补录 | 待补录 | 4 | 待补录 | MYR | 没有门票则记为 0 |
+| 购物 / Shopping | 伴手礼和个人购物 | 待补录 | 待补录 | 按实际 | 不统一分摊 | MYR | 个人消费单独记录 |
+| 网络与保险 / Connectivity & Insurance | SIM/eSIM、旅行保险 | 待补录 | 待补录 | 4 | 待补录 | CNY/MYR | 记录购买日期和来源 |
+
+## 记录规则 / Recording Rules
+
+- 每笔费用记录日期、类别、项目、总额、币种、人数、是否含税和来源。
+- 共同费用按 4 人计算人均；个人购物和个人消费不强制平均分摊。
+- 付款后及时补充实际金额，并保留订单、小票或付款记录作为来源。
+- 金额未确认前使用“待补录”，不根据记忆估算。
