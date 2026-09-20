@@ -143,3 +143,9 @@
 - 修复 Day 1 地点说明中异常显示的换行字符。
 - 优化 KLCC、双子塔、Saloma Link、Sunway Putra Hotel 和 PWTC 的 Google Maps 查询链接。
 - 统一 Day 1 的 Markdown 换行和地点链接格式。
+
+## 2026-09-20 - v2.2
+
+- 确定 Day 1 晚餐在 Suria KLCC 解决。
+- 新增 Little Penang Kafé 主选和 Signatures Food Court 备用方案。
+- 将 Day 1 购物限制为即时用品，特色伴手礼安排到后续马六甲行程。
