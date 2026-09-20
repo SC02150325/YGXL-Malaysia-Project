@@ -12,6 +12,14 @@
 - [ ] 保存个人登机牌、航班订单和酒店信息；公开项目只使用 L、Y、G、X 代号
 - [ ] 确认自己的行李额度、座位和托运行李安排
 
+### 入境马来西亚准备
+
+- [ ] 确认自己的护照符合马来西亚入境要求，并核对允许停留时间
+- [ ] 按要求完成个人 Malaysia Digital Arrival Card（MDAC）提交
+- [ ] 保存自己的 MDAC 提交成功信息，必要时可以在手机上出示
+- [ ] 准备自己的返程机票信息、酒店信息和简单行程说明
+- [ ] 确认自己有可用的支付方式，必要时准备资金证明
+- [ ] 记住自己的旅客代号：L、Y、G 或 X，方便团队内部确认
 ### 手机与电子设备
 
 - [ ] 手机及解锁密码、重要联系人和支付工具可正常使用
@@ -92,4 +100,5 @@
 - [马来西亚移民局：签证与入境要求](https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/)
 - [马来西亚移民局：FAQ](https://www.imi.gov.my/index.php/en/contact-us/frequently-ask-question/)
 - [亚航：国际航班入境与出发提示](https://www.airasia.com/cdn/docs/en-MY-docs/arrival-departure-flyer.pdf)
+
 
