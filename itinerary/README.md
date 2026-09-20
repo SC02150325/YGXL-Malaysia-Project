@@ -43,6 +43,18 @@
 - 这段时间也可以作为换衣服、补妆和调整状态的缓冲。
 - 如果天气、泳池开放时间或抵达时间不合适，就改为在房间或酒店公共区域休息。
 - 泳池休息和 KLCC 夜景都是 Day 1 的体验重点；时间不足时优先保证休息，再决定是否前往 Saloma Link。
+## Day 1 路线图 / Day 1 Route Map
+
+![Day 1 吉隆坡路线图](./day1-route-map.webp)
+
+### 地点链接 / Google Maps Links
+
+1. [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
+2. [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
+3. [KLCC / Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers%2C+Kuala+Lumpur)
+4. [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link%2C+Lorong+Raja+Muda+Musa+3%2C+Kampung+Baru%2C+Kuala+Lumpur)
+
+> 路线图用于记忆地点和大致方向；实际步行、乘车和入口位置以当天 Google Maps、现场标识和交通情况为准。
 ### 地点说明
 
 #### [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Park%2C+Kuala+Lumpur) / [Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers%2C+Kuala+Lumpur)
@@ -95,18 +107,6 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 - 天气不好：改为 KLCC 商场、室内用餐和短距离拍照。
 - 大家特别喜欢 KLCC：可以停留更久，不需要为了完成后续地点赶路。
 
-## Day 1 路线图 / Day 1 Route Map
-
-![Day 1 吉隆坡路线图](./day1-route-map.webp)
-
-### 地点链接 / Google Maps Links
-
-1. [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
-2. [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
-3. [KLCC / Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers%2C+Kuala+Lumpur)
-4. [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link%2C+Lorong+Raja+Muda+Musa+3%2C+Kampung+Baru%2C+Kuala+Lumpur)
-
-> 路线图用于记忆地点和大致方向；实际步行、乘车和入口位置以当天 Google Maps、现场标识和交通情况为准。
 ## Day 2 · 10/16：吉隆坡街区 → 马六甲夜市
 
 ### 今日目标
@@ -124,6 +124,11 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 | 傍晚 | Melaka Sentral → Hatten Hotel Melaka | 带行李优先 Grab，先入住、放行李和休息 |
 | 晚上 | 荷兰红屋、基督教堂、鸡场街夜市 | 视抵达时间和体力安排，累了就缩短路线 |
 
+## Day 2 公共交通路线图 / Day 2 Public Transport Map
+
+![Day 2 吉隆坡到马六甲公共交通路线图](./day2-route-map.webp)
+
+> 地图只保留 Day 2 需要的交通节点：酒店、PWTC、Bandar Tasik Selatan、TBS、Melaka Sentral 和 Hatten Hotel。路线颜色代表 LRT、步行、长途巴士和 Grab；实际站台和车次以当天车票、电子屏和现场指引为准。
 ### 地点说明
 
 #### [Kwai Chai Hong / 鬼仔巷](https://www.google.com/maps/search/?api=1&query=Kwai+Chai+Hong+Kuala+Lumpur)
@@ -228,11 +233,6 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 - [Melaka Sentral / 马六甲中央车站](https://www.google.com/maps/search/?api=1&query=Melaka+Sentral)
 - [Encore Melaka / 又见马六甲](https://www.google.com/maps/search/?api=1&query=Encore+Melaka)
 - [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
-## Day 2 公共交通路线图 / Day 2 Public Transport Map
-
-![Day 2 吉隆坡到马六甲公共交通路线图](./day2-route-map.webp)
-
-> 地图只保留 Day 2 需要的交通节点：酒店、PWTC、Bandar Tasik Selatan、TBS、Melaka Sentral 和 Hatten Hotel。路线颜色代表 LRT、步行、长途巴士和 Grab；实际站台和车次以当天车票、电子屏和现场指引为准。
 ## Day 3 · 10/17：马六甲慢游与海峡日落
 
 ### 今日目标
@@ -249,6 +249,11 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 | 傍晚 | 前往 Melaka Straits Mosque / 马六甲海峡清真寺 | 预留黄金时刻、日落、蓝调时刻和清真寺亮灯 |
 | 晚上 | 返回古城，晚餐、河边散步或继续逛鸡场街 | 根据体力决定是否延长夜间活动 |
 
+## Day 3 路线图 / Day 3 Route Map
+
+![Day 3 马六甲路线图](./day3-route-map.webp)
+
+> 地图只保留 Day 3 需要的酒店、历史城区地点和马六甲海峡清真寺；路线用于记忆大致方向，实际道路和到达时间以当天导航为准。
 ### 地点说明
 
 #### [A Famosa / 圣地亚哥城门](https://www.google.com/maps/search/?api=1&query=A+Famosa+Porta+de+Santiago+Melaka)
@@ -307,11 +312,6 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [Melaka Straits Mosque / 马六甲海峡清真寺](https://www.google.com/maps/search/?api=1&query=Melaka+Straits+Mosque)
 - [Melaka River Walk / 马六甲河](https://www.google.com/maps/search/?api=1&query=Melaka+River+Walk)
 - [Jonker Walk / 鸡场街](https://www.google.com/maps/search/?api=1&query=Jonker+Walk+Melaka)
-## Day 3 路线图 / Day 3 Route Map
-
-![Day 3 马六甲路线图](./day3-route-map.webp)
-
-> 地图只保留 Day 3 需要的酒店、历史城区地点和马六甲海峡清真寺；路线用于记忆大致方向，实际道路和到达时间以当天导航为准。
 ## Day 4 · 10/18：马六甲 → KUL T2 → 广州
 
 ### 今日目标
@@ -390,6 +390,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 
