@@ -178,3 +178,8 @@
 - 为 Day 3 新增简化静态路线图。
 - 仅保留 Hatten Hotel、A Famosa、St. Paul's Hill、Dutch Square、Jonker Walk 和 Melaka Straits Mosque。
 - 用路线线区分上午历史城区路线和下午/傍晚海峡清真寺路线。
+
+## 2026-09-20 - v2.8
+
+- 在 Day 3 路线图约 x=17.6%、y=53.6% 位置增加 Encore Melaka / 又见马六甲标记。
+- 为又见马六甲补充 Google Maps 地点链接。

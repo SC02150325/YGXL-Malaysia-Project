@@ -217,7 +217,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 - [Bandar Tasik Selatan Station / 南湖镇站](https://www.google.com/maps/search/?api=1&query=Bandar+Tasik+Selatan+Station+Kuala+Lumpur)
 - [TBS - Terminal Bersepadu Selatan](https://www.google.com/maps/search/?api=1&query=Terminal+Bersepadu+Selatan+TBS+Kuala+Lumpur)
 - [Melaka Sentral / 马六甲中央车站](https://www.google.com/maps/search/?api=1&query=Melaka+Sentral)
-- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
+- [Encore Melaka / 又见马六甲](https://www.google.com/maps/search/?api=1&query=Encore+Melaka)`r`n- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
 ## Day 3 · 10/17：马六甲慢游与海峡日落
 
 ### 今日目标
@@ -285,7 +285,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 
 ### 地点链接 / Google Maps Links
 
-- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
+- [Encore Melaka / 又见马六甲](https://www.google.com/maps/search/?api=1&query=Encore+Melaka)`r`n- [Hatten Hotel Melaka / 哈登酒店马六甲](https://www.google.com/maps/search/?api=1&query=Hatten+Hotel+Melaka)
 - [A Famosa / 圣地亚哥城门](https://www.google.com/maps/search/?api=1&query=A+Famosa+Porta+de+Santiago+Melaka)
 - [St. Paul's Hill / 圣保罗山](https://www.google.com/maps/search/?api=1&query=St+Pauls+Hill+Melaka)
 - [Melaka Straits Mosque / 马六甲海峡清真寺](https://www.google.com/maps/search/?api=1&query=Melaka+Straits+Mosque)
@@ -313,6 +313,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 
