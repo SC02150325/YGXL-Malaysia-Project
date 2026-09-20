@@ -91,3 +91,9 @@
 - 补充 PWTC、Masjid Jamek、Pasar Seni、Bandar Tasik Selatan、TBS 和 Melaka Sentral 的换乘方向。
 - 采用线路、方向和目的地记忆方式，不固定可能变化的站台编号。
 
+
+## 2026-09-20 - v1.3
+
+- 将 Day 2 时间线调整为上午、中午、下午、傍晚和晚上等粗粒度安排。
+- 将 Day 2 双语交通地点记忆点移动到当天安排最后。
+
