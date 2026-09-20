@@ -37,15 +37,21 @@
 
 ### 地点说明
 
-#### [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) / [Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers+Kuala+Lumpur)
+#### [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Park%2C+Kuala+Lumpur) / [Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers%2C+Kuala+Lumpur)
 
-这是第一晚的核心区域。KLCC（Kuala Lumpur City Centre）是吉隆坡现代城市发展的代表性片区，双子塔、Suria KLCC 商场、KLCC Park 和周边酒店集中在一起，适合四人合照，也适合在商场、广场和步道之间灵活调整。`r`n`r`nPetronas Twin Towers 于 1990 年代建成，1999 年正式启用，曾在 1998-2004 年间保持世界最高建筑纪录；双塔的几何造型也融入了伊斯兰艺术元素。这里不仅是拍照地，也是马来西亚现代化和国家城市形象的重要象征。`r`n`r`n建议至少留出一个半小时：先拍城市环境，再拍双子塔亮灯后的合照和个人照片。
+这是第一晚的核心区域。KLCC（Kuala Lumpur City Centre）是吉隆坡现代城市发展的代表性片区，双子塔、Suria KLCC 商场、KLCC Park 和周边酒店集中在一起，适合四人合照，也适合在商场、广场和步道之间灵活调整。
+
+Petronas Twin Towers 于 1990 年代建成，1999 年正式启用，曾在 1998-2004 年间保持世界最高建筑纪录；双塔的几何造型也融入了伊斯兰艺术元素。这里不仅是拍照地，也是马来西亚现代化和国家城市形象的重要象征。
+
+建议至少留出一个半小时：先拍城市环境，再拍双子塔亮灯后的合照和个人照片。
 
 如果大家抵达后明显疲惫，KLCC 本身就足够完成第一晚，不必强行前往其他地点。
 
-#### [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur)
+#### [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link%2C+Lorong+Raja+Muda+Musa+3%2C+Kampung+Baru%2C+Kuala+Lumpur)
 
-Saloma Link 是一座跨越 Klang River 的步行和自行车桥，连接传统社区 Kampung Baru 与现代化的 KLCC 区域，全长约 69 米。它的意义不只是一个拍照点：从桥上可以看到两种城市景观的对照，一侧是 Kampung Baru 的传统马来社区，另一侧是双子塔和 KLCC 的现代天际线。`r`n`r`n它适合作为双子塔之后的补充机位，可以拍桥体灯光、城市夜景和人物剪影。它不是第一天的必到点：如果下雨、排队、交通不顺或大家已经累了，直接取消不会影响当天体验。
+Saloma Link 是一座跨越 Klang River 的步行和自行车桥，连接传统社区 Kampung Baru 与现代化的 KLCC 区域，全长约 69 米。它的意义不只是一个拍照点：从桥上可以看到两种城市景观的对照，一侧是 Kampung Baru 的传统马来社区，另一侧是双子塔和 KLCC 的现代天际线。
+
+它适合作为双子塔之后的补充机位，可以拍桥体灯光、城市夜景和人物剪影。它不是第一天的必到点：如果下雨、排队、交通不顺或大家已经累了，直接取消不会影响当天体验。
 
 ### 当天交通建议
 
@@ -74,10 +80,10 @@ Saloma Link 是一座跨越 Klang River 的步行和自行车桥，连接传统�
 
 ### 地点链接 / Google Maps Links
 
-1. [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel+Kuala+Lumpur)
-2. [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station+Kuala+Lumpur)
-3. [KLCC / Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers+Kuala+Lumpur)
-4. [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur)
+1. [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
+2. [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
+3. [KLCC / Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers%2C+Kuala+Lumpur)
+4. [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link%2C+Lorong+Raja+Muda+Musa+3%2C+Kampung+Baru%2C+Kuala+Lumpur)
 
 > 路线图用于记忆地点和大致方向；实际步行、乘车和入口位置以当天 Google Maps、现场标识和交通情况为准。
 ## Day 2 · 10/16：吉隆坡街区 → 公共交通前往马六甲
@@ -180,6 +186,7 @@ Saloma Link 是一座跨越 Klang River 的步行和自行车桥，连接传统�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 

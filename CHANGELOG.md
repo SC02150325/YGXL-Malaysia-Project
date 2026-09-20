@@ -137,3 +137,9 @@
 
 - 为 Day 1 的 KLCC、Petronas Twin Towers 和 Saloma Link 增加简短城市与历史背景。
 - 保持介绍以旅行理解和拍照体验为主，避免过度学术化。
+
+## 2026-09-20 - v2.1
+
+- 修复 Day 1 地点说明中异常显示的换行字符。
+- 优化 KLCC、双子塔、Saloma Link、Sunway Putra Hotel 和 PWTC 的 Google Maps 查询链接。
+- 统一 Day 1 的 Markdown 换行和地点链接格式。
