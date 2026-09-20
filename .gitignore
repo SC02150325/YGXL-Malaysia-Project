@@ -1,0 +1,6 @@
+# Private booking documents - do not publish to GitHub
+Trip.com*.pdf
+
+# Local/private notes
+*.private.*
+.env
