@@ -29,12 +29,26 @@
 
 | 时段 | 安排 | 说明 |
 | --- | --- | --- |
-| 下午 | 抵达 [KUL T2 / 吉隆坡国际机场](https://www.google.com/maps/search/?api=1&query=Kuala+Lumpur+International+Airport+Terminal+2)，完成入境、取行李并与接机司机会合 | 司机接到 4 人后直接前往 [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel+Kuala+Lumpur) |
+| 下午 | 抵达 KUL T2 / 吉隆坡国际机场，完成入境、取行李并与接机司机会合 | 司机接到 4 人后直接前往 Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店 |
 | 下午 | 酒店入住、休息、换衣服和补妆 | 不急着出门，先处理好个人状态 |
-| 傍晚 | 前往 [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) 和 [Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers+Kuala+Lumpur) | 以城市散步、双子塔拍照和周边用餐为主 |
-| 晚上 | 视体力前往 [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur) | 作为补充夜景机位，下雨或疲劳时可以取消 |
+| 傍晚 | 前往 KLCC 和 Petronas Twin Towers / 双子塔 | 以城市散步、双子塔拍照和周边用餐为主 |
+| 晚上 | 视体力前往 Saloma Link / 莎罗马行人天桥 | 作为补充夜景机位，下雨或疲劳时可以取消 |
 | 晚上 | 晚餐后返回酒店 | 不再安排远距离景点，保持第一天轻松 |
 ### 地点说明
+
+#### KLCC / Petronas Twin Towers / 双子塔
+
+这是第一晚的核心区域。优点是城市景观集中，适合四人合照，也适合在商场、广场和周边步道之间灵活调整。建议至少留出一个半小时：先拍城市环境，再拍双子塔亮灯后的合照和个人照片。
+
+如果大家抵达后明显疲惫，KLCC 本身就足够完成第一晚，不必强行前往其他地点。
+
+#### Saloma Link / 莎罗马行人天桥
+
+Saloma Link / 莎罗马行人天桥 适合作为双子塔之后的补充机位，可以拍桥体灯光、城市夜景和人物剪影。它不是第一天的必到点：如果下雨、排队、交通不顺或大家已经累了，直接取消不会影响当天体验。
+
+### 当天交通建议
+
+- 抵达 KUL T2 / 吉隆坡国际机场 后，完成入境和取行李，前往到达出口与 Trip.com 接机司机会合。`r`n- 司机接到 4 人后，直接前往 Sunway Putra Hotel K### 地点说明
 
 #### [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) / [Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers+Kuala+Lumpur)
 
@@ -46,36 +60,10 @@
 
 [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur) 适合作为双子塔之后的补充机位，可以拍桥体灯光、城市夜景和人物剪影。它不是第一天的必到点：如果下雨、排队、交通不顺或大家已经累了，直接取消不会影响当天体验。
 
-### 当天交通建议
-
-- 抵达 [KUL T2 / 吉隆坡国际机场](https://www.google.com/maps/search/?api=1&query=Kuala+Lumpur+International+Airport+Terminal+2) 后，完成入境和取行李，前往到达出口与 Trip.com 接机司机会合。`r`n- 司机接到 4 人后，直接前往 [Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel+Kuala+Lumpur)；不再现场临时安排机场交通。
-- 酒店到 [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) 建议使用 Grab；出发前确认车型能容纳 4 人和随身行李。
-- [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) 与 [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur) 是否步行衔接，以当天天气、体力和现场人流决定。
-- 晚餐后直接回酒店，不再安排远距离夜景点。
-
-### 拍照与穿搭建议
-
-- 酒店休息时完成第一轮换衣服和补妆，减少到景区后反复折返。
-- 双子塔建议拍两组：蓝调时刻一组、完全亮灯后一组。
-- 四人合照最好在刚到 [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) 时先完成，避免越晚人越累。
-- [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur) 适合拍人物剪影和夜景，不必为单一机位等待太久。
-
-### 弹性规则
-
-- 航班或入境延误：保留 [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur)，取消 [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur)。
-- 下午体力不足：酒店休息时间延长，晚餐就在 [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) 解决。
-- 天气不好：改为 [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) 商场、室内用餐和短距离拍照。
-- 大家特别喜欢 [KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur)：可以停留更久，不需要为了完成后续地点赶路。
-## Day 1 路线图 / Day 1 Route Map
-
-![Day 1 吉隆坡路线图](./day1-route-map.png)
-
-### 地点链接 / Google Maps Links
-
-1. [[Sunway Putra Hotel Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel+Kuala+Lumpur) Kuala Lumpur / 双威布特拉酒店](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel+Kuala+Lumpur)
-2. [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station+Kuala+Lumpur)
-3. [[KLCC](https://www.google.com/maps/search/?api=1&query=KLCC+Kuala+Lumpur) / [Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers+Kuala+Lumpur) / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers+Kuala+Lumpur)
-4. [[Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur) / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur)
+l+Kuala+Lumpur)
+2. PWTC LRT Station / PWTC 轻轨站
+3. [KLCC / Petronas Twin Towers / 双子塔 / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers+Kuala+Lumpur)
+4. [Saloma Link / 莎罗马行人天桥 / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link+Bridge+Kuala+Lumpur)
 
 > 路线图用于记忆地点和大致方向；实际步行、乘车和入口位置以当天 Google Maps、现场标识和交通情况为准。
 ## Day 2 · 10/16：吉隆坡街区 → 公共交通前往马六甲
@@ -178,6 +166,7 @@
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 
