@@ -132,3 +132,8 @@
 - 修复 Day 1 多次链接调整后产生的重复标题和异常文本。
 - 仅在 Day 1 地点说明中保留 KLCC / 双子塔和 Saloma Link 的 Google Maps 链接。
 - 保留底部路线图区域的完整地点链接清单。
+
+## 2026-09-20 - v2.0
+
+- 为 Day 1 的 KLCC、Petronas Twin Towers 和 Saloma Link 增加简短城市与历史背景。
+- 保持介绍以旅行理解和拍照体验为主，避免过度学术化。
