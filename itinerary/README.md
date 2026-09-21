@@ -169,7 +169,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 #### 酒店 → TBS
 
-1. 从酒店回到 Conlay MRT Station。
+1. 行李较多时，优先从 Eaton Residence KLCC 直接叫 Grab 前往 TBS。
 2. 乘 Sri Petaling Line，往 Putra Heights 方向。
 3. 在 Bandar Tasik Selatan Station 下车。
 4. 按指示沿连通通道前往 TBS - Terminal Bersepadu Selatan。
@@ -205,7 +205,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 ### 交通地点记忆 / Bilingual Waypoints
 
-**Eaton Residence KLCC → Conlay MRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka**
+**Eaton Residence KLCC → Conlay MRT Station → TRX Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka**
 
 | 顺序 | 中文地点 | English | 作用 |
 | --- | --- | --- | --- |
@@ -390,6 +390,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 

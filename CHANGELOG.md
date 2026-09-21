@@ -284,3 +284,7 @@
 ## 2026-09-21 - v2.30
 - 修正 Eaton Residence KLCC 更换后 Day 2 交通路线，移除沿用的 PWTC 站信息。
 - 明确前往老城区的 MRT 换乘记忆和携带行李前往 TBS 的 Grab 优先方案。
+
+## 2026-09-21 - v2.31
+- 清理酒店更换后残留的 Sunway Putra Mall、PWTC 和旧路线文字。
+- 将预算中的机场接机目的地同步更新为 Eaton Residence KLCC。
