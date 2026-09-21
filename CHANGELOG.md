@@ -288,3 +288,7 @@
 ## 2026-09-21 - v2.31
 - 清理酒店更换后残留的 Sunway Putra Mall、PWTC 和旧路线文字。
 - 将预算中的机场接机目的地同步更新为 Eaton Residence KLCC。
+
+## 2026-09-21 - v2.32
+- 确认 10 月 15 日 Trip.com 机场接机：15:30，KUL T2 → Eaton Residence KLCC。
+- 补录接机费用 USD 23.19，并更新 Day 1、交通和出发清单。

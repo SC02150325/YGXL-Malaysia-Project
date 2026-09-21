@@ -8,7 +8,7 @@
 | --- | --- | --- | ---: | ---: | ---: | --- | --- | --- |
 | 2026/09/19 | 航班与住宿 / Flight & Hotel | AirAsia AK113 + AK116；Sunway Putra Hotel Kuala Lumpur + Hatten Hotel Melaka（订单 A，2 人） | 571.95 | 2 | 285.975 | USD | 待确认 | Trip.com 截图，订单号已隐藏 |
 | 2026/09/19 | 航班与住宿 / Flight & Hotel | AirAsia AK113 + AK116；Sunway Putra Hotel Kuala Lumpur + Hatten Hotel Melaka（订单 B，2 人） | 579.25 | 2 | 289.625 | USD | 待确认 | Trip.com 截图，订单号已隐藏 |
-| 待确认 | 机场接送 / Airport Transfer | KUL T2 → Eaton Residence KLCC | 待补录 | 4 | 待补录 | 待确认 | 待确认 | 已安排 / Trip.com 接机 |
+| 2026/09/21 | 机场接机 / Airport Pick-up | Kuala Lumpur International Airport T2 → Eaton Residence KLCC | 23.19 | 4 | 5.7975 | USD | 待确认 | Trip.com 接机，15:30，已支付 |
 | 待确认 | 机场送机 / Departure Transfer | Hatten Hotel Melaka → KUL T2 | 待补录 | 4 | 待补录 | 待确认 | 待确认 | 计划方案 / Trip.com 送机 |
 
 | 2026/09/19 | 酒店 / Hotel | Eaton Residence KLCC（1 晚，Two-Bedroom Apartment） | 113.06 | 4 | 28.265 | USD | 待确认 | Trip.com 截图，订单号和个人信息已隐藏 |
@@ -36,6 +36,7 @@
 - 共同费用按 4 人计算人均；个人购物和个人消费不强制平均分摊。
 - 付款后及时补充实际金额，并保留订单、小票或付款记录作为来源。
 - 金额未确认前使用“待补录”，不根据记忆估算。
+
 
 
 

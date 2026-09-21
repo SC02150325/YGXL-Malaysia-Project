@@ -82,7 +82,7 @@
 ## 3. 机场接机与酒店
 
 - [x] 已确定：抵达 KUL T2 后完成入境和取行李
-- [x] 已确定：前往到达出口与 Trip.com 接机司机会合
+- [x] 已确定：前往到达出口与 Trip.com 接机司机会合（15:30 接机已确认）
 - [x] 已确定：司机接到 4 人后直接前往 Eaton Residence KLCC
 - [ ] 保存接机订单、司机联系方式、车辆信息和会合点说明
 - [ ] 指定 1 人负责联系司机，另 1 人作为备用联系人
@@ -151,6 +151,7 @@
 - [马来西亚移民局：签证与入境要求](https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/)
 - [马来西亚移民局：FAQ](https://www.imi.gov.my/index.php/en/contact-us/frequently-ask-question/)
 - [亚航：国际航班入境与出发提示](https://www.airasia.com/cdn/docs/en-MY-docs/arrival-departure-flyer.pdf)
+
 
 
 
