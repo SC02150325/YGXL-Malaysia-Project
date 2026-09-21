@@ -50,7 +50,7 @@
 ### 地点链接 / Google Maps Links
 
 1. [Eaton Residence KLCC](https://www.google.com/maps/search/?api=1&query=Eaton+Residence+KLCC%2C+Jalan+Kia+Peng%2C+Kuala+Lumpur)
-2. [Conlay MRT Station / Conlay 地铁站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
+2. [Conlay MRT Station / Conlay 地铁站](https://www.google.com/maps/search/?api=1&query=Conlay+MRT+Station%2C+Kuala+Lumpur)
 3. [KLCC / Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers%2C+Kuala+Lumpur)
 4. [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link%2C+Lorong+Raja+Muda+Musa+3%2C+Kampung+Baru%2C+Kuala+Lumpur)
 
@@ -128,7 +128,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 ![Day 2 吉隆坡到马六甲公共交通路线图](./day2-route-map.webp)
 
-> 地图只保留 Day 2 需要的交通节点：酒店、PWTC、Bandar Tasik Selatan、TBS、Melaka Sentral 和 马六甲惠胜酒店 / Hatten Hotel Melaka。路线颜色代表 LRT、步行、长途巴士和 Grab；实际站台和车次以当天车票、电子屏和现场指引为准。
+> 地图只保留 Day 2 需要的交通节点：Eaton Residence KLCC、Conlay、Bandar Tasik Selatan、TBS、Melaka Sentral 和 马六甲惠胜酒店 / Hatten Hotel Melaka。路线颜色代表 LRT、步行、长途巴士和 Grab；实际站台和车次以当天车票、电子屏和现场指引为准。
 ### 地点说明
 
 #### [Kwai Chai Hong / 鬼仔巷](https://www.google.com/maps/search/?api=1&query=Kwai+Chai+Hong+Kuala+Lumpur)
@@ -158,14 +158,14 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 #### 酒店 → 吉隆坡老城区
 
-1. 从 Eaton Residence KLCC 通过 Eaton Residence KLCC 附近步行路线前往 Conlay MRT Station。
+1. 从 Eaton Residence KLCC 步行前往 Conlay MRT Station。
 2. 乘 Ampang Line 或 Sri Petaling Line 前往 Masjid Jamek Station。
 3. 在 Masjid Jamek 换乘 Kelana Jaya Line，前往 Pasar Seni Station。
 4. 从 Pasar Seni 步行前往 Petaling Street，再步行或短途前往 Kwai Chai Hong。
 
 #### 老城区 → 酒店取行李
 
-午餐后原路返回 Pasar Seni，经 Masjid Jamek 换乘回 PWTC，回酒店领取寄存行李。若时间紧、天气炎热或行李较多，可以直接从老城区叫 Grab 回酒店。
+午餐后原路返回 Pasar Seni，按当天导航从 Pasar Seni 返回 Conlay，回酒店领取寄存行李。若时间紧、天气炎热或行李较多，可以直接从老城区叫 Grab 回酒店。
 
 #### 酒店 → TBS
 
@@ -209,8 +209,8 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 | 顺序 | 中文地点 | English | 作用 |
 | --- | --- | --- | --- |
-| 1 | 吉隆坡双威太子酒店 | Eaton Residence KLCC | 出发点、取行李点 |
-| 2 | Conlay 地铁站 | Conlay MRT Station | 酒店附近上车点（Conlay MRT） |
+| 1 | Eaton Residence KLCC | Eaton Residence KLCC | 出发点、取行李点 |
+| 2 | Conlay 地铁站 | Conlay MRT Station | 酒店附近上车点 |
 | 3 | Masjid Jamek 站 | Masjid Jamek Station | 去老城区时的换乘点 |
 | 4 | Pasar Seni 站 | Pasar Seni Station | 茨厂街、鬼仔巷方向 |
 | 5 | 南湖镇站 | Bandar Tasik Selatan Station | 前往 TBS 的下车点 |
@@ -223,7 +223,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 ### 地点链接 / Google Maps Links
 
 - [Eaton Residence KLCC](https://www.google.com/maps/search/?api=1&query=Eaton+Residence+KLCC%2C+Jalan+Kia+Peng%2C+Kuala+Lumpur)
-- [Conlay MRT Station / Conlay 地铁站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
+- [Conlay MRT Station / Conlay 地铁站](https://www.google.com/maps/search/?api=1&query=Conlay+MRT+Station%2C+Kuala+Lumpur)
 - [Masjid Jamek 站 / Masjid Jamek Station](https://www.google.com/maps/search/?api=1&query=Masjid+Jamek+LRT+Station%2C+Kuala+Lumpur)
 - [Pasar Seni 站 / Pasar Seni Station](https://www.google.com/maps/search/?api=1&query=Pasar+Seni+Station%2C+Kuala+Lumpur)
 - [Petaling Street / 茨厂街](https://www.google.com/maps/search/?api=1&query=Petaling+Street+Chinatown+Kuala+Lumpur)
@@ -390,6 +390,7 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
 
 
 

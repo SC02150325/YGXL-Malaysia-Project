@@ -280,3 +280,7 @@
 - 将吉隆坡住宿更新为 Eaton Residence KLCC，地址为 Jalan Kia Peng, Kuala Lumpur, 50450, Malaysia。
 - 同步调整 Day 1、Day 2、交通、清单和酒店路线记忆点。
 - 补录 Eaton Residence KLCC 1 晚费用 USD 113.06，原航班酒店套餐费用保留为历史记录待核对。
+
+## 2026-09-21 - v2.30
+- 修正 Eaton Residence KLCC 更换后 Day 2 交通路线，移除沿用的 PWTC 站信息。
+- 明确前往老城区的 MRT 换乘记忆和携带行李前往 TBS 的 Grab 优先方案。
