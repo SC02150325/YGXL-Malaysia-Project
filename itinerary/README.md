@@ -9,12 +9,12 @@
 
 ### 酒店 / Hotels
 
-- 吉隆坡 / Kuala Lumpur：吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur，Sunway Putra Mall, 100 Jalan Putra, Chow Kit, 50350 Kuala Lumpur
+- 吉隆坡 / Kuala Lumpur：Eaton Residence KLCC，Jalan Kia Peng, 50450 Kuala Lumpur
 - 马六甲 / Melaka：马六甲惠胜酒店 / Hatten Hotel Melaka，Jalan Merdeka, Banda Hilir, 75000 Melaka
 
 ### 全程记忆路线 / Route Memory
 
-**广州白云 T3 → 吉隆坡 KUL T2 → 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur → KLCC → 马六甲惠胜酒店 / Hatten Hotel Melaka → Dutch Square / Jonker Walk → Melaka Straits Mosque → KUL T2 → 广州白云 T3**
+**广州白云 T3 → 吉隆坡 KUL T2 → Eaton Residence KLCC → KLCC → 马六甲惠胜酒店 / Hatten Hotel Melaka → Dutch Square / Jonker Walk → Melaka Straits Mosque → KUL T2 → 广州白云 T3**
 
 其中机场和两家酒店是全程必经地点；KLCC、Dutch Square / Jonker Walk 和 Melaka Straits Mosque 是主要体验地点；Saloma Link 是可根据体力和天气取消的补充地点。
 这里维护每日的详细路线。根目录 [README](../README.md) 只展示总计划和快速入口。
@@ -29,7 +29,7 @@
 
 | 时段 | 安排 | 说明 |
 | --- | --- | --- |
-| 下午 | 抵达 KUL T2，完成入境、取行李并与接机司机会合 | 司机接到 4 人后直接前往 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur |
+| 下午 | 抵达 KUL T2，完成入境、取行李并与接机司机会合 | 司机接到 4 人后直接前往 Eaton Residence KLCC |
 | 下午 | 酒店入住、泳池休息和观景 | 先放松、看看城市景观，再回房间换衣服和补妆 |
 | 傍晚 | 前往 KLCC 和 Petronas Twin Towers / 双子塔 | 以城市散步、双子塔拍照和周边用餐为主 |
 | 晚上 | 视体力前往 Saloma Link / 莎罗马行人天桥 | 作为补充夜景机位，下雨或疲劳时可以取消 |
@@ -37,7 +37,7 @@
 
 ### 酒店泳池休息
 
-入住 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur 后，先不急着出门，安排一段泳池休息和观景时间：
+入住 Eaton Residence KLCC 后，先不急着出门，安排一段泳池休息和观景时间：
 
 - 放下行李后前往酒店泳池，游泳、休息或欣赏周边城市景观。
 - 这段时间也可以作为换衣服、补妆和调整状态的缓冲。
@@ -49,8 +49,8 @@
 
 ### 地点链接 / Google Maps Links
 
-1. [吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
-2. [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
+1. [Eaton Residence KLCC](https://www.google.com/maps/search/?api=1&query=Eaton+Residence+KLCC%2C+Jalan+Kia+Peng%2C+Kuala+Lumpur)
+2. [Conlay MRT Station / Conlay 地铁站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
 3. [KLCC / Petronas Twin Towers / 双子塔](https://www.google.com/maps/search/?api=1&query=Petronas+Twin+Towers%2C+Kuala+Lumpur)
 4. [Saloma Link / 莎罗马行人天桥](https://www.google.com/maps/search/?api=1&query=Saloma+Link%2C+Lorong+Raja+Muda+Musa+3%2C+Kampung+Baru%2C+Kuala+Lumpur)
 
@@ -89,7 +89,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 ### 当天交通建议
 
 - 抵达 KUL T2 后，完成入境和取行李，前往到达出口与 Trip.com 接机司机会合。
-- 司机接到 4 人后，直接前往 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur。
+- 司机接到 4 人后，直接前往 Eaton Residence KLCC。
 - 晚上在 KLCC 和 Saloma Link 之间移动时，根据天气、体力和现场人流决定是否步行或叫车。
 - 晚餐后直接回酒店，不再安排远距离夜景点。
 
@@ -111,13 +111,13 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 ### 今日目标
 
-上午在吉隆坡老城区慢慢游玩，下午回 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur 取行李，再通过公共交通前往马六甲。今天区域跨度较大，重点是控制行李、减少折返，并给跨城交通预留足够弹性。
+上午在吉隆坡老城区慢慢游玩，下午回 Eaton Residence KLCC 取行李，再通过公共交通前往马六甲。今天区域跨度较大，重点是控制行李、减少折返，并给跨城交通预留足够弹性。
 
 ### 时间线
 
 | 时段 | 安排 | 说明 |
 | --- | --- | --- |
-| 上午 | 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur → 鬼仔巷、茨厂街 | 不带大件行李，以街拍、建筑、咖啡和小吃为主 |
+| 上午 | Eaton Residence KLCC → 鬼仔巷、茨厂街 | 不带大件行李，以街拍、建筑、咖啡和小吃为主 |
 | 中午 | 吉隆坡老城区午餐和休息 | 不安排过多景点，保留回酒店取行李的时间 |
 | 下午 | 返回酒店取行李 → 前往 TBS | 行李多或天气炎热时，酒店到 TBS 可改用 Grab |
 | 下午至傍晚 | TBS → Melaka Sentral | 乘公共汽车前往马六甲，车次和余票出发前确认 |
@@ -158,7 +158,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 #### 酒店 → 吉隆坡老城区
 
-1. 从 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur 通过 Sunway Putra Mall 连通通道前往 PWTC LRT Station。
+1. 从 Eaton Residence KLCC 通过 Eaton Residence KLCC 附近步行路线前往 Conlay MRT Station。
 2. 乘 Ampang Line 或 Sri Petaling Line 前往 Masjid Jamek Station。
 3. 在 Masjid Jamek 换乘 Kelana Jaya Line，前往 Pasar Seni Station。
 4. 从 Pasar Seni 步行前往 Petaling Street，再步行或短途前往 Kwai Chai Hong。
@@ -169,7 +169,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 #### 酒店 → TBS
 
-1. 从酒店回到 PWTC LRT Station。
+1. 从酒店回到 Conlay MRT Station。
 2. 乘 Sri Petaling Line，往 Putra Heights 方向。
 3. 在 Bandar Tasik Selatan Station 下车。
 4. 按指示沿连通通道前往 TBS - Terminal Bersepadu Selatan。
@@ -179,7 +179,7 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 这一天看起来会经过多个地点，但核心只需要记住两件事：**上午轻装游览，下午集中转移**。
 
-- 不带大件行李去鬼仔巷和茨厂街：先寄存在 吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur，避免拖行李走老街和换乘。
+- 不带大件行李去鬼仔巷和茨厂街：先寄存在 Eaton Residence KLCC，避免拖行李走老街和换乘。
 - 午餐后回酒店取行李虽然会产生一次折返，但比带着行李游览、寄存到陌生地点更稳定，也更容易控制物品安全。
 - 酒店到 TBS：行李少、天气好时走 LRT；行李多、天气热或时间紧时直接 Grab，4 人分摊后更舒服。
 - TBS 到 Melaka Sentral：建议提前确认并购买长途巴士票，目标是下午出发，不把抵达时间压到晚上太晚。
@@ -205,12 +205,12 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 ### 交通地点记忆 / Bilingual Waypoints
 
-**吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur → PWTC LRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka**
+**Eaton Residence KLCC → Conlay MRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka**
 
 | 顺序 | 中文地点 | English | 作用 |
 | --- | --- | --- | --- |
-| 1 | 吉隆坡双威太子酒店 | Sunway Putra Hotel Kuala Lumpur | 出发点、取行李点 |
-| 2 | PWTC 轻轨站 | PWTC LRT Station | 酒店附近上车点 |
+| 1 | 吉隆坡双威太子酒店 | Eaton Residence KLCC | 出发点、取行李点 |
+| 2 | Conlay 地铁站 | Conlay MRT Station | 酒店附近上车点（Conlay MRT） |
 | 3 | Masjid Jamek 站 | Masjid Jamek Station | 去老城区时的换乘点 |
 | 4 | Pasar Seni 站 | Pasar Seni Station | 茨厂街、鬼仔巷方向 |
 | 5 | 南湖镇站 | Bandar Tasik Selatan Station | 前往 TBS 的下车点 |
@@ -222,8 +222,8 @@ Day 1 晚餐暂定在 **Suria KLCC** 区域解决，具体餐厅到时根据大�
 
 ### 地点链接 / Google Maps Links
 
-- [吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur](https://www.google.com/maps/search/?api=1&query=Sunway+Putra+Hotel%2C+100+Jalan+Putra%2C+Kuala+Lumpur)
-- [PWTC LRT Station / PWTC 轻轨站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
+- [Eaton Residence KLCC](https://www.google.com/maps/search/?api=1&query=Eaton+Residence+KLCC%2C+Jalan+Kia+Peng%2C+Kuala+Lumpur)
+- [Conlay MRT Station / Conlay 地铁站](https://www.google.com/maps/search/?api=1&query=PWTC+LRT+Station%2C+Kuala+Lumpur)
 - [Masjid Jamek 站 / Masjid Jamek Station](https://www.google.com/maps/search/?api=1&query=Masjid+Jamek+LRT+Station%2C+Kuala+Lumpur)
 - [Pasar Seni 站 / Pasar Seni Station](https://www.google.com/maps/search/?api=1&query=Pasar+Seni+Station%2C+Kuala+Lumpur)
 - [Petaling Street / 茨厂街](https://www.google.com/maps/search/?api=1&query=Petaling+Street+Chinatown+Kuala+Lumpur)
@@ -390,6 +390,8 @@ A Famosa 的圣地亚哥城门是马六甲历史城区最具辨识度的遗迹�
 - [ ] 为每一天补充最晚出发时间和“累了即可取消”的节点
 - [ ] 为 Day 2 和 Day 3 增加雨天替代路线
 - [ ] 补充酒店入住、退房、寄存行李和早餐时间
+
+
 
 
 

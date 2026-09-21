@@ -9,11 +9,11 @@
 
 ### 酒店 → 吉隆坡老城区
 
-吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur 与 PWTC 站 / PWTC LRT Station相连。前往茨厂街/鬼仔巷时，建议 PWTC → Masjid Jamek 站 / Masjid Jamek Station，换乘 Kelana Jaya Line 到 Pasar Seni 站 / Pasar Seni Station，再步行进入 Petaling Street 一带。
+Eaton Residence KLCC 与 Conlay 站 / Conlay MRT Station相连。前往茨厂街/鬼仔巷时，建议 Conlay → Pasar Seni 站 / Masjid Jamek Station，换乘 Kelana Jaya Line 到 Pasar Seni 站 / Pasar Seni Station，再步行进入 Petaling Street 一带。
 
 ### 酒店 → TBS
 
-取回行李后，从 PWTC 站 / PWTC LRT Station 乘 Sri Petaling Line，往 Putra Heights 方向，在 Bandar Tasik Selatan 下车，沿连通通道前往 TBS - Terminal Bersepadu Selatan。
+取回行李后，从 Conlay 站 / Conlay MRT Station 乘 Sri Petaling Line，往 Putra Heights 方向，在 Bandar Tasik Selatan 下车，沿连通通道前往 TBS - Terminal Bersepadu Selatan。
 
 ### TBS → Melaka Sentral
 
@@ -27,12 +27,12 @@
 
 ## Day 2 地点记忆 / Bilingual Waypoints
 
-**吉隆坡双威太子酒店 / Sunway Putra Hotel Kuala Lumpur → PWTC LRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka**
+**Eaton Residence KLCC → Conlay MRT Station → Masjid Jamek Station → Pasar Seni Station → Petaling Street / Kwai Chai Hong → Bandar Tasik Selatan Station → TBS → Melaka Sentral → 马六甲惠胜酒店 / Hatten Hotel Melaka**
 
 ### 车站与站台原则
 
 - 记线路、方向和目的地，不记固定站台编号。
-- PWTC → Masjid Jamek：确认 Ampang Line / Sri Petaling Line 方向。
+- Conlay → Pasar Seni：确认 Ampang Line / Sri Petaling Line 方向。
 - Masjid Jamek → Pasar Seni：换乘 Kelana Jaya Line。
 - 返回 TBS：从 Pasar Seni 返回 Masjid Jamek，再换 Sri Petaling Line，往 Putra Heights 方向，在 Bandar Tasik Selatan 下车。
 - TBS 和 Melaka Sentral 是长途巴士总站，具体候车区、站台和闸口以当天车票和电子屏为准。
@@ -43,6 +43,7 @@
 - 目标：约 13:00 前抵达 KUL T2，航班为 16:35 的 AK116。
 - 待确认：订单是否预订成功、司机联系方式、车辆容量、行李数量和上车时间。
 - 备用方案：Trip.com 未确认或延误时，改用 Grab 6-seater 或其他 4 人直达车辆。
+
 
 
 

@@ -275,3 +275,8 @@
 ## 2026-09-20 - v2.28
 - 根据用户确认公开的两张 Trip.com 截图补录两笔航班与酒店套餐费用。
 - 记录合计 USD 1,151.20、4 人均摊 USD 287.80，并隐藏订单号和旅客身份信息。
+
+## 2026-09-21 - v2.29
+- 将吉隆坡住宿更新为 Eaton Residence KLCC，地址为 Jalan Kia Peng, Kuala Lumpur, 50450, Malaysia。
+- 同步调整 Day 1、Day 2、交通、清单和酒店路线记忆点。
+- 补录 Eaton Residence KLCC 1 晚费用 USD 113.06，原航班酒店套餐费用保留为历史记录待核对。

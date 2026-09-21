@@ -23,7 +23,7 @@
 
 ### [Day 1 · 10/15：吉隆坡夜景](./itinerary/README.md#day-1--1015吉隆坡夜景)
 
-下午抵达 KUL T2，完成入境、取行李并与 Trip.com 接机司机会合，前往 Sunway Putra Hotel Kuala Lumpur。入住后安排泳池休息、观景、换衣服和补妆；傍晚前往 KLCC 与双子塔，视体力决定是否去 Saloma Link，晚餐暂留在 KLCC 区域灵活安排。
+下午抵达 KUL T2，完成入境、取行李并与 Trip.com 接机司机会合，前往 Eaton Residence KLCC。入住后安排泳池休息、观景、换衣服和补妆；傍晚前往 KLCC 与双子塔，视体力决定是否去 Saloma Link，晚餐暂留在 KLCC 区域灵活安排。
 
 ### [Day 2 · 10/16：吉隆坡街区 → 马六甲夜市](./itinerary/README.md#day-2--1016吉隆坡街区--马六甲夜市)
 
@@ -40,7 +40,7 @@
 
 | 项目 | 当前安排 |
 | --- | --- |
-| Day 1 | KUL T2 接机 → Sunway Putra Hotel Kuala Lumpur 泳池休息 → KLCC / 双子塔夜景 → 餐饮待现场确认 |
+| Day 1 | KUL T2 接机 → Eaton Residence KLCC 泳池休息 → KLCC / 双子塔夜景 → 餐饮待现场确认 |
 | Day 2 | 轻装游览鬼仔巷、茨厂街 → 回酒店取行李 → LRT / TBS / 长途巴士 → Hatten Hotel Melaka → 鸡场街夜市 |
 | Day 3 | A Famosa、圣保罗山、历史城区 → 娘惹菜 → 酒店休息换装 → 马六甲海峡清真寺日落 |
 | Day 4 | 早餐 → 退房寄存 → 酒店附近活动 → Trip.com 送机 → KUL T2 → AK116 回广州 |
@@ -60,7 +60,7 @@
 
 | 日期 | 中文 | English | 地址 / Address |
 | --- | --- | --- | --- |
-| 10/15-10/16 | 吉隆坡双威太子酒店 | Sunway Putra Hotel Kuala Lumpur | Sunway Putra Mall, 100 Jalan Putra, Chow Kit, 50350 Kuala Lumpur, Malaysia |
+| 10/15-10/16 | Eaton Residence KLCC | Eaton Residence KLCC | Jalan Kia Peng, 50450 Kuala Lumpur, Malaysia |
 | 10/16-10/18 | 马六甲惠胜酒店 | Hatten Hotel Melaka | Jalan Merdeka, Banda Hilir, 75000 Melaka, Malaysia |
 
 ### 必经地点 / Must-pass Locations
@@ -69,7 +69,7 @@
 | --- | --- | --- |
 | **必经** | 广州白云机场 T3 / Guangzhou Baiyun Airport T3 | 去程集合、值机、托运和出境 |
 | **必经** | 吉隆坡国际机场 T2 / Kuala Lumpur International Airport T2 | 入境、取行李、接机；返程值机和登机 |
-| **必经** | Sunway Putra Hotel Kuala Lumpur | 吉隆坡住宿、第一晚出发点 |
+| **必经** | Eaton Residence KLCC | 吉隆坡住宿、第一晚出发点 |
 | **必经** | Hatten Hotel Melaka | 马六甲住宿、第二天和第三天休息点 |
 | **重点** | KLCC / Petronas Twin Towers / 双子塔 | 第一天城市夜景和主要拍照点 |
 | **重点** | Dutch Square / 荷兰红屋 · Jonker Walk / 鸡场街 | 马六甲古城、夜市和拍照区域 |
@@ -90,6 +90,8 @@
 ## 旅行原则
 
 不追求打卡数量。睡晚了就少去一个地方，天气不好就切换方案，拍照开心就多停留，累了就回酒店。攻略是参考，不是任务清单。
+
+
 
 
 

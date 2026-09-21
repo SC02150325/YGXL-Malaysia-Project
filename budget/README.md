@@ -11,6 +11,8 @@
 | 待确认 | 机场接送 / Airport Transfer | KUL T2 → Sunway Putra Hotel Kuala Lumpur | 待补录 | 4 | 待补录 | 待确认 | 待确认 | 已安排 / Trip.com 接机 |
 | 待确认 | 机场送机 / Departure Transfer | Hatten Hotel Melaka → KUL T2 | 待补录 | 4 | 待补录 | 待确认 | 待确认 | 计划方案 / Trip.com 送机 |
 
+| 2026/09/19 | 酒店 / Hotel | Eaton Residence KLCC（1 晚，Two-Bedroom Apartment） | 113.06 | 4 | 28.265 | USD | 待确认 | Trip.com 截图，订单号和个人信息已隐藏 |
+
 ## 已产生费用汇总 / Incurred Expense Summary
 
 - Trip.com 航班与酒店套餐合计：**USD 1,151.20**（2 笔订单、4 人）。
@@ -34,4 +36,5 @@
 - 共同费用按 4 人计算人均；个人购物和个人消费不强制平均分摊。
 - 付款后及时补充实际金额，并保留订单、小票或付款记录作为来源。
 - 金额未确认前使用“待补录”，不根据记忆估算。
+
 
