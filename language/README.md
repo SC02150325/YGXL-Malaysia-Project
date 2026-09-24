@@ -89,8 +89,6 @@
 - 你会说中文吗？ — **Do you speak Chinese?**
 - 可以帮我吗？ — **Can you help me?**
 - 我想要…… — **I would like …**
-- 多少钱？ — **How much is it?**
-- 可以刷卡吗？ — **Can I pay by card?**
 - 厕所在哪里？ — **Where is the toilet?**
 - 我迷路了 — **I’m lost.**
 - 我需要帮助 — **I need help.**
@@ -132,36 +130,15 @@ taxi 出租车；ride-hailing 网约车；bus 公交车；train 火车；MRT / L
 
 ## 五、酒店住宿
 
-hotel 酒店；reservation / booking 预订；check-in 入住；check-out 退房；reception / front desk 前台；room 房间；key card 房卡；deposit 押金；single room 单人间；double room 双人间；twin room 双床房；breakfast included 包含早餐；elevator / lift 电梯；floor 楼层；bathroom 浴室；air conditioning 空调；towel 毛巾；hot water 热水；charger 充电器；wake-up call 叫醒服务。
-
-- I have a reservation under the name … 我用……的名字预订了房间。
-- What time is check-in / check-out? 几点入住 / 退房？
-- Is breakfast included? 包含早餐吗？
-- The air conditioner isn’t working. 空调坏了。
-- Could I have an extra towel? 可以再给我一条毛巾吗？
-- Can I leave my luggage here? 可以寄放行李吗？
+重点对话请直接查看[酒店住宿重点速查](#酒店住宿)。本节只补充房型和设施词汇：**single room** 单人间；**double room** 大床房；**twin room** 双床房；**elevator / lift** 电梯；**floor** 楼层；**bathroom** 浴室；**charger** 充电器；**wake-up call** 叫醒服务。
 
 ## 六、餐厅与点餐
 
-restaurant 餐厅；menu 菜单；order 点餐；table 桌子；drink 饮料；water 水；chicken 鸡肉；beef 牛肉；pork 猪肉；seafood 海鲜；fish 鱼；rice 米饭；noodles 面条；vegetables 蔬菜；spicy 辣；sweet 甜；salty 咸；vegetarian 素食；halal 清真；bill 账单；service charge 服务费；takeaway / takeout 外带；dine-in 堂食。
-
-- A table for two, please. 两位，谢谢。
-- I would like to order this. 我想点这个。
-- Is it spicy? 这个辣吗？
-- No spicy, please. 请不要辣。
-- I don’t eat pork. 我不吃猪肉。
-- Is this halal? 这是清真的吗？
-- Can we have the bill, please? 请结账。
+重点对话请直接查看[餐厅点餐重点速查](#餐厅点餐)。本节只补充食物和用餐词汇：**restaurant** 餐厅；**drink** 饮料；**water** 水；**chicken** 鸡肉；**beef** 牛肉；**seafood** 海鲜；**fish** 鱼；**rice** 米饭；**noodles** 面条；**vegetables** 蔬菜；**sweet** 甜；**salty** 咸；**vegetarian** 素食；**dine-in** 堂食。
 
 ## 七、购物与付款
 
-shopping mall 购物中心；market 市场；shop / store 商店；price 价格；cheap 便宜；expensive 贵；discount 折扣；sale 促销；size 尺码；color 颜色；cash 现金；card 银行卡；receipt 收据；change 找零；tax refund 退税；open 营业；closed 关闭。
-
-- Do you have a smaller size? 有小一点的尺码吗？
-- Is there a discount? 有折扣吗？
-- I’m just looking, thank you. 我只是看看，谢谢。
-- Can I try this on? 可以试穿吗？
-- Please give me a receipt. 请给我收据。
+重点对话请直接查看[购物与付款重点速查](#购物与付款)。本节只补充购物地点和状态词汇：**shopping mall** 购物中心；**market** 市场；**shop / store** 商店；**cheap** 便宜；**expensive** 贵；**sale** 促销；**tax refund** 退税；**open** 营业；**closed** 关闭。
 
 ## 八、景点、公共设施与路牌
 
