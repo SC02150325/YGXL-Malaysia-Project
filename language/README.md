@@ -9,12 +9,9 @@
 - [二、本次行程专用地点](#二本次行程专用地点)
 - [三、机场与入境](#三机场与入境)
 - [四、交通与问路](#四交通与问路)
-- [五、酒店住宿](#五酒店住宿)
-- [六、餐厅与点餐](#六餐厅与点餐)
-- [七、购物与付款](#七购物与付款)
-- [八、景点、公共设施与路牌](#八景点公共设施与路牌)
-- [九、紧急情况](#九紧急情况)
-- [十、常见马来语](#十常见马来语)
+- [景点、公共设施与路牌](#景点公共设施与路牌)
+- [紧急情况](#紧急情况)
+- [常见马来语](#常见马来语)
 - [出发前优先记住](#出发前优先记住)
 
 ## 重点速查：酒店、餐厅、购物
@@ -36,7 +33,7 @@
 - **Could you send someone to check it?** — 可以安排人来检查吗？
 - **Could you call a Grab for us?** — 可以帮我们叫 Grab 吗？
 
-常用词：**reservation / booking** 预订；**check-in** 入住；**check-out** 退房；**front desk** 前台；**deposit** 押金；**room** 房间；**key card** 房卡；**breakfast included** 包含早餐；**Wi-Fi password** Wi-Fi 密码；**luggage storage** 行李寄存。
+常用词：**reservation / booking** 预订；**check-in** 入住；**check-out** 退房；**front desk / reception** 前台；**deposit** 押金；**room** 房间；**single room** 单人间；**double room** 大床房；**twin room** 双床房；**key card** 房卡；**breakfast included** 包含早餐；**Wi-Fi password** Wi-Fi 密码；**luggage storage** 行李寄存；**elevator / lift** 电梯；**floor** 楼层；**bathroom** 浴室；**charger** 充电器；**wake-up call** 叫醒服务。
 
 ### 餐厅点餐
 
@@ -56,7 +53,7 @@
 - **Can we pay separately?** — 可以分开付款吗？
 - **Can I get this takeaway?** — 这个可以外带吗？
 
-常用词：**menu** 菜单；**order** 点餐；**recommend** 推荐；**spicy** 辣；**less spicy** 少辣；**no chili** 不要辣椒；**pork** 猪肉；**peanuts** 花生；**halal** 清真；**bill** 账单；**service charge** 服务费；**takeaway** 外带。
+常用词：**restaurant** 餐厅；**menu** 菜单；**order** 点餐；**recommend** 推荐；**drink** 饮料；**water** 水；**chicken** 鸡肉；**beef** 牛肉；**seafood** 海鲜；**fish** 鱼；**rice** 米饭；**noodles** 面条；**vegetables** 蔬菜；**spicy** 辣；**less spicy** 少辣；**no chili** 不要辣椒；**pork** 猪肉；**peanuts** 花生；**halal** 清真；**sweet** 甜；**salty** 咸；**vegetarian** 素食；**bill** 账单；**service charge** 服务费；**takeaway** 外带；**dine-in** 堂食。
 
 ### 购物与付款
 
@@ -74,7 +71,7 @@
 - **Could I have a receipt, please?** — 请给我收据。
 - **Can I exchange this if the size is wrong?** — 尺码不合适可以更换吗？
 
-常用词：**price** 价格；**discount** 折扣；**sale** 促销；**size** 尺码；**color** 颜色；**cash** 现金；**card** 银行卡；**receipt** 收据；**change** 找零；**exchange** 更换。
+常用词：**shopping mall** 购物中心；**market** 市场；**shop / store** 商店；**price** 价格；**discount** 折扣；**sale** 促销；**size** 尺码；**color** 颜色；**cash** 现金；**card** 银行卡；**contactless payment** 非接触式支付；**receipt** 收据；**change** 找零；**exchange** 更换；**tax refund** 退税。
 
 ## 一、最常用交流
 
@@ -128,25 +125,13 @@ taxi 出租车；ride-hailing 网约车；bus 公交车；train 火车；MRT / L
 - Which platform should I use? 我应该去哪个站台？
 - Is this train going to Kuala Lumpur? 这班火车去吉隆坡吗？
 
-## 五、酒店住宿
-
-重点对话请直接查看[酒店住宿重点速查](#酒店住宿)。本节只补充房型和设施词汇：**single room** 单人间；**double room** 大床房；**twin room** 双床房；**elevator / lift** 电梯；**floor** 楼层；**bathroom** 浴室；**charger** 充电器；**wake-up call** 叫醒服务。
-
-## 六、餐厅与点餐
-
-重点对话请直接查看[餐厅点餐重点速查](#餐厅点餐)。本节只补充食物和用餐词汇：**restaurant** 餐厅；**drink** 饮料；**water** 水；**chicken** 鸡肉；**beef** 牛肉；**seafood** 海鲜；**fish** 鱼；**rice** 米饭；**noodles** 面条；**vegetables** 蔬菜；**sweet** 甜；**salty** 咸；**vegetarian** 素食；**dine-in** 堂食。
-
-## 七、购物与付款
-
-重点对话请直接查看[购物与付款重点速查](#购物与付款)。本节只补充购物地点和状态词汇：**shopping mall** 购物中心；**market** 市场；**shop / store** 商店；**cheap** 便宜；**expensive** 贵；**sale** 促销；**tax refund** 退税；**open** 营业；**closed** 关闭。
-
-## 八、景点、公共设施与路牌
+## 景点、公共设施与路牌
 
 tourist attraction 旅游景点；landmark 地标；museum 博物馆；temple 寺庙；mosque 清真寺；beach 海滩；island 岛；mountain 山；park 公园；entrance fee 门票；opening hours 开放时间；viewpoint 观景台；souvenir 纪念品；prayer room 祈祷室；public toilet 公共厕所。
 
 entrance 入口；exit 出口；emergency exit 紧急出口；no entry 禁止进入；keep left 靠左行；keep right 靠右行；one way 单行道；no parking 禁止停车；parking 停车场；pedestrian crossing 人行横道；traffic lights 红绿灯；beware / caution 小心；slippery 地滑；under construction 施工中；queue / line 排队；level 楼层；lift 电梯；escalator 自动扶梯。
 
-## 九、紧急情况
+## 紧急情况
 
 police 警察；hospital 医院；clinic 诊所；pharmacy 药房；ambulance 救护车；emergency 紧急情况；sick 生病；pain 疼痛；fever 发烧；allergy 过敏；medicine 药；stolen 被偷；dangerous 危险；safe 安全。
 
@@ -157,7 +142,7 @@ police 警察；hospital 医院；clinic 诊所；pharmacy 药房；ambulance �
 - Please call an ambulance. 请叫救护车。
 - Is there a pharmacy nearby? 附近有药房吗？
 
-## 十、常见马来语
+## 常见马来语
 
 - **terima kasih** — 谢谢
 - **sama-sama** — 不客气
