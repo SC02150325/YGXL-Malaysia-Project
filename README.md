@@ -85,6 +85,7 @@
 | [拍照机位 / Photo Spots](./photo-spots/) | 光线、机位、合照、服装和拍摄时间 |
 | [预算 / Budget](./budget/) | 4人总额、人均金额和分类支出 |
 | [出发前检查 / Pre-departure Checklist](./checklist/) | 航班、酒店、交通、天气、网络和保险 |
+| [旅行英语速查 / Travel English](./language/) | 机场、交通、酒店、餐饮、购物、路牌和紧急情况英语 |
 | [资料来源 / Sources](./sources/) | 地图、餐厅、交通和官方资料链接 |
 
 ## 旅行原则
