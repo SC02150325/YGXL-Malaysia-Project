@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [重点速查：酒店、餐厅、购物](#重点速查酒店餐厅购物)
 - [一、最常用交流](#一最常用交流)
 - [二、本次行程专用地点](#二本次行程专用地点)
 - [三、机场与入境](#三机场与入境)
@@ -15,6 +16,65 @@
 - [九、紧急情况](#九紧急情况)
 - [十、常见马来语](#十常见马来语)
 - [出发前优先记住](#出发前优先记住)
+
+## 重点速查：酒店、餐厅、购物
+
+这三个场景最需要实际开口交流，建议优先熟悉下面的词句。
+
+### 酒店住宿
+
+- **I have a reservation under the name …** — 我用……的名字预订了房间。
+- **I’d like to check in.** — 我想办理入住。
+- **What time is check-out?** — 几点退房？
+- **Is breakfast included?** — 包含早餐吗？
+- **Is there a deposit or tourist tax?** — 需要押金或旅游税吗？
+- **Can I leave my luggage here before check-in?** — 入住前可以寄放行李吗？
+- **Can I leave my luggage here after check-out?** — 退房后可以寄放行李吗？
+- **Could I have the Wi-Fi password?** — 可以告诉我 Wi-Fi 密码吗？
+- **Could I have an extra towel / key card?** — 可以再给我一条毛巾 / 一张房卡吗？
+- **The air conditioner / hot water isn’t working.** — 空调 / 热水不能用。
+- **Could you send someone to check it?** — 可以安排人来检查吗？
+- **Could you call a Grab for us?** — 可以帮我们叫 Grab 吗？
+
+常用词：**reservation / booking** 预订；**check-in** 入住；**check-out** 退房；**front desk** 前台；**deposit** 押金；**room** 房间；**key card** 房卡；**breakfast included** 包含早餐；**Wi-Fi password** Wi-Fi 密码；**luggage storage** 行李寄存。
+
+### 餐厅点餐
+
+- **A table for four, please.** — 四位，谢谢。
+- **Can we see the menu, please?** — 可以给我们菜单吗？
+- **We’re ready to order.** — 我们可以点餐了。
+- **I’d like this one, please.** — 我想要这个。
+- **What do you recommend?** — 你推荐什么？
+- **Is this spicy?** — 这个辣吗？
+- **Can you make it less spicy?** — 可以少放一点辣吗？
+- **No chili, please.** — 请不要放辣椒。
+- **I don’t eat pork.** — 我不吃猪肉。
+- **Does this contain peanuts?** — 这里面含花生吗？
+- **Is this halal?** — 这是清真的吗？
+- **Can we have two more glasses of water?** — 可以再给我们两杯水吗？
+- **Can we have the bill, please?** — 请结账。
+- **Can we pay separately?** — 可以分开付款吗？
+- **Can I get this takeaway?** — 这个可以外带吗？
+
+常用词：**menu** 菜单；**order** 点餐；**recommend** 推荐；**spicy** 辣；**less spicy** 少辣；**no chili** 不要辣椒；**pork** 猪肉；**peanuts** 花生；**halal** 清真；**bill** 账单；**service charge** 服务费；**takeaway** 外带。
+
+### 购物与付款
+
+- **How much is this?** — 这个多少钱？
+- **Do you have this in another color?** — 这个有其他颜色吗？
+- **Do you have a smaller / larger size?** — 有小一点 / 大一点的尺码吗？
+- **Can I try this on?** — 可以试穿吗？
+- **Is there a discount?** — 有折扣吗？
+- **Is this the final price?** — 这是最终价格吗？
+- **I’m just looking, thank you.** — 我只是看看，谢谢。
+- **I’ll take it.** — 我买了。
+- **Can I pay by card?** — 可以刷卡吗？
+- **Do you accept cash?** — 收现金吗？
+- **Can I use contactless payment?** — 可以使用非接触式支付吗？
+- **Could I have a receipt, please?** — 请给我收据。
+- **Can I exchange this if the size is wrong?** — 尺码不合适可以更换吗？
+
+常用词：**price** 价格；**discount** 折扣；**sale** 促销；**size** 尺码；**color** 颜色；**cash** 现金；**card** 银行卡；**receipt** 收据；**change** 找零；**exchange** 更换。
 
 ## 一、最常用交流
 
