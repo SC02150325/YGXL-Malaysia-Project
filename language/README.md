@@ -5,7 +5,6 @@
 ## 目录
 
 - [重点速查：酒店、餐厅、购物](#重点速查酒店餐厅购物)
-- [日常短语快用](#日常短语快用)
 - [一、最常用交流](#一最常用交流)
 - [二、本次行程专用地点](#二本次行程专用地点)
 - [三、机场与入境](#三机场与入境)
@@ -36,6 +35,8 @@
 
 常用词：**reservation / booking** 预订；**check-in** 入住；**check-out** 退房；**front desk / reception** 前台；**deposit** 押金；**room** 房间；**single room** 单人间；**double room** 大床房；**twin room** 双床房；**key card** 房卡；**breakfast included** 包含早餐；**Wi-Fi password** Wi-Fi 密码；**luggage storage** 行李寄存；**elevator / lift** 电梯；**floor** 楼层；**bathroom** 浴室；**charger** 充电器；**wake-up call** 叫醒服务。
 
+日常短语：**Checking in.** 办理入住；**Checking out.** 办理退房；**Here’s my passport.** 这是我的护照；**My booking is under …** 我的预订姓名是……；**One room, please.** 一间房，谢谢；**Two nights.** 住两晚；**Where’s the lift?** 电梯在哪里；**Wi-Fi password, please.** 请告诉我 Wi-Fi 密码；**One more key card, please.** 请再给我一张房卡；**More towels, please.** 请多给几条毛巾；**Luggage storage, please.** 我想寄存行李；**The room isn’t ready.** 房间还没准备好；**It doesn’t work.** 它不能用；**Could you check, please?** 可以帮忙检查吗？
+
 ### 餐厅点餐
 
 - **A table for four, please.** — 四位，谢谢。
@@ -56,6 +57,8 @@
 
 常用词：**restaurant** 餐厅；**menu** 菜单；**order** 点餐；**recommend** 推荐；**drink** 饮料；**water** 水；**chicken** 鸡肉；**beef** 牛肉；**seafood** 海鲜；**fish** 鱼；**rice** 米饭；**noodles** 面条；**vegetables** 蔬菜；**spicy** 辣；**less spicy** 少辣；**no chili** 不要辣椒；**pork** 猪肉；**peanuts** 花生；**halal** 清真；**sweet** 甜；**salty** 咸；**vegetarian** 素食；**bill** 账单；**service charge** 服务费；**takeaway** 外带；**dine-in** 堂食。
 
+日常短语：**Table for four.** 四位；**Menu, please.** 请给菜单；**This one, please.** 请给我这个；**Anything not spicy?** 有不辣的吗；**Less spicy, please.** 请少辣；**No chili.** 不要辣椒；**No pork.** 不要猪肉；**No peanuts.** 不要花生；**One more water, please.** 请再来一杯水；**For here.** 堂食；**To go.** 外带；**That’s all, thank you.** 就这些，谢谢；**The bill, please.** 请结账；**Separate bills, please.** 请分开结账；**Card or cash?** 刷卡还是现金？
+
 ### 购物与付款
 
 - **How much is this?** — 这个多少钱？
@@ -74,62 +77,7 @@
 
 常用词：**shopping mall** 购物中心；**market** 市场；**shop / store** 商店；**price** 价格；**discount** 折扣；**sale** 促销；**size** 尺码；**color** 颜色；**cash** 现金；**card** 银行卡；**contactless payment** 非接触式支付；**receipt** 收据；**change** 找零；**exchange** 更换；**tax refund** 退税。
 
-## 日常短语快用
-
-以下短语比完整句子更短，适合在柜台、餐桌或商店里快速沟通。
-
-### 酒店
-
-- **Checking in.** — 办理入住。
-- **Checking out.** — 办理退房。
-- **Here’s my passport.** — 这是我的护照。
-- **My booking is under …** — 我的预订姓名是……
-- **One room, please.** — 一间房，谢谢。
-- **Two nights.** — 住两晚。
-- **Where’s the lift?** — 电梯在哪里？
-- **Wi-Fi password, please.** — 请告诉我 Wi-Fi 密码。
-- **One more key card, please.** — 请再给我一张房卡。
-- **More towels, please.** — 请多给几条毛巾。
-- **Luggage storage, please.** — 我想寄存行李。
-- **The room isn’t ready.** — 房间还没准备好。
-- **It doesn’t work.** — 它不能用。
-- **Could you check, please?** — 可以帮忙检查吗？
-
-### 餐厅
-
-- **Table for four.** — 四位。
-- **Menu, please.** — 请给菜单。
-- **This one, please.** — 请给我这个。
-- **Anything not spicy?** — 有不辣的吗？
-- **Less spicy, please.** — 请少辣。
-- **No chili.** — 不要辣椒。
-- **No pork.** — 不要猪肉。
-- **No peanuts.** — 不要花生。
-- **One more water, please.** — 请再来一杯水。
-- **For here.** — 堂食。
-- **To go.** — 外带。
-- **That’s all, thank you.** — 就这些，谢谢。
-- **The bill, please.** — 请结账。
-- **Separate bills, please.** — 请分开结账。
-- **Card or cash?** — 刷卡还是现金？
-
-### 购物
-
-- **Just looking.** — 只是看看。
-- **How much?** — 多少钱？
-- **Too expensive.** — 太贵了。
-- **Any discount?** — 有折扣吗？
-- **This color, please.** — 请给这个颜色。
-- **A smaller one, please.** — 请给小一点的。
-- **A larger one, please.** — 请给大一点的。
-- **Can I try it?** — 可以试试吗？
-- **Where’s the fitting room?** — 试衣间在哪里？
-- **I’ll take it.** — 我买了。
-- **I’ll think about it.** — 我考虑一下。
-- **Card, please.** — 刷卡。
-- **Cash, please.** — 现金付款。
-- **Receipt, please.** — 请给收据。
-- **Can I exchange it?** — 可以换吗？
+日常短语：**Just looking.** 只是看看；**How much?** 多少钱；**Too expensive.** 太贵了；**Any discount?** 有折扣吗；**This color, please.** 请给这个颜色；**A smaller one, please.** 请给小一点的；**A larger one, please.** 请给大一点的；**Can I try it?** 可以试试吗；**Where’s the fitting room?** 试衣间在哪里；**I’ll take it.** 我买了；**I’ll think about it.** 我考虑一下；**Card, please.** 刷卡；**Cash, please.** 现金付款；**Receipt, please.** 请给收据；**Can I exchange it?** 可以换吗？
 
 ## 一、最常用交流
 
