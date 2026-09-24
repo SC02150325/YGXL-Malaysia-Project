@@ -4,17 +4,21 @@
 
 ## 目录
 
-- [重点速查：酒店、餐厅、购物](#重点速查酒店餐厅购物)
-- [一、最常用交流](#一最常用交流)
-- [二、本次行程专用地点](#二本次行程专用地点)
-- [三、机场与入境](#三机场与入境)
-- [四、交通与问路](#四交通与问路)
-- [景点、公共设施与路牌](#景点公共设施与路牌)
-- [紧急情况](#紧急情况)
-- [常见马来语](#常见马来语)
-- [出发前优先记住](#出发前优先记住)
+- [一、核心沟通场景](#一核心沟通场景)
+  - [酒店住宿](#酒店住宿)
+  - [餐厅点餐](#餐厅点餐)
+  - [购物与付款](#购物与付款)
+- [二、基础表达与旅程词汇](#二基础表达与旅程词汇)
+  - [最常用交流](#最常用交流)
+  - [本次行程专用地点](#本次行程专用地点)
+  - [机场与入境](#机场与入境)
+  - [交通与问路](#交通与问路)
+  - [景点、公共设施与路牌](#景点公共设施与路牌)
+  - [紧急情况](#紧急情况)
+  - [常见马来语](#常见马来语)
+- [三、出发前速记](#三出发前速记)
 
-## 重点速查：酒店、餐厅、购物
+## 一、核心沟通场景
 
 这三个场景最需要实际开口交流，建议优先熟悉下面的词句。
 
@@ -79,7 +83,9 @@
 
 日常短语：**Just looking.** 只是看看；**How much?** 多少钱；**Too expensive.** 太贵了；**Any discount?** 有折扣吗；**This color, please.** 请给这个颜色；**A smaller one, please.** 请给小一点的；**A larger one, please.** 请给大一点的；**Can I try it?** 可以试试吗；**Where’s the fitting room?** 试衣间在哪里；**I’ll take it.** 我买了；**I’ll think about it.** 我考虑一下；**Card, please.** 刷卡；**Cash, please.** 现金付款；**Receipt, please.** 请给收据；**Can I exchange it?** 可以换吗？
 
-## 一、最常用交流
+## 二、基础表达与旅程词汇
+
+### 最常用交流
 
 - 你好 — **Hello / Hi**
 - 谢谢 — **Thank you**
@@ -96,7 +102,7 @@
 - 我迷路了 — **I’m lost.**
 - 我需要帮助 — **I need help.**
 
-## 二、本次行程专用地点
+### 本次行程专用地点
 
 - 吉隆坡国际机场二号航站楼 — **Kuala Lumpur International Airport T2 / KUL T2**
 - 到达出口 — **Arrival exit**
@@ -111,7 +117,7 @@
 - 鸡场街 — **Jonker Walk**
 - 马六甲海峡清真寺 — **Melaka Straits Mosque**
 
-## 三、机场与入境
+### 机场与入境
 
 airport 机场；arrival 到达；departure 出发；immigration 入境检查；customs 海关；passport 护照；visa 签证；boarding pass 登机牌；baggage / luggage 行李；baggage claim 行李提取处；gate 登机口；terminal 航站楼；flight 航班；delayed 延误；cancelled 取消；exit 出口；information desk 咨询台；lost and found 失物招领。
 
@@ -120,7 +126,7 @@ airport 机场；arrival 到达；departure 出发；immigration 入境检查；
 - My luggage is missing. 我的行李不见了。
 - Is this the way to the exit? 这是去出口的路吗？
 
-## 四、交通与问路
+### 交通与问路
 
 taxi 出租车；ride-hailing 网约车；bus 公交车；train 火车；MRT / LRT 城市轨道交通；monorail 单轨列车；station 车站；bus stop 公交站；platform 站台；ticket 车票；fare 车费；one-way 单程；return / round trip 往返；left 左；right 右；straight 直走；near 附近；far 远；upstairs 楼上；downstairs 楼下。
 
@@ -131,13 +137,13 @@ taxi 出租车；ride-hailing 网约车；bus 公交车；train 火车；MRT / L
 - Which platform should I use? 我应该去哪个站台？
 - Is this train going to Kuala Lumpur? 这班火车去吉隆坡吗？
 
-## 景点、公共设施与路牌
+### 景点、公共设施与路牌
 
 tourist attraction 旅游景点；landmark 地标；museum 博物馆；temple 寺庙；mosque 清真寺；beach 海滩；island 岛；mountain 山；park 公园；entrance fee 门票；opening hours 开放时间；viewpoint 观景台；souvenir 纪念品；prayer room 祈祷室；public toilet 公共厕所。
 
 entrance 入口；exit 出口；emergency exit 紧急出口；no entry 禁止进入；keep left 靠左行；keep right 靠右行；one way 单行道；no parking 禁止停车；parking 停车场；pedestrian crossing 人行横道；traffic lights 红绿灯；beware / caution 小心；slippery 地滑；under construction 施工中；queue / line 排队；level 楼层；lift 电梯；escalator 自动扶梯。
 
-## 紧急情况
+### 紧急情况
 
 police 警察；hospital 医院；clinic 诊所；pharmacy 药房；ambulance 救护车；emergency 紧急情况；sick 生病；pain 疼痛；fever 发烧；allergy 过敏；medicine 药；stolen 被偷；dangerous 危险；safe 安全。
 
@@ -148,7 +154,7 @@ police 警察；hospital 医院；clinic 诊所；pharmacy 药房；ambulance �
 - Please call an ambulance. 请叫救护车。
 - Is there a pharmacy nearby? 附近有药房吗？
 
-## 常见马来语
+### 常见马来语
 
 - **terima kasih** — 谢谢
 - **sama-sama** — 不客气
@@ -166,6 +172,6 @@ police 警察；hospital 医院；clinic 诊所；pharmacy 药房；ambulance �
 - **pedas** — 辣
 - **boleh / tak boleh** — 可以 / 不可以
 
-## 出发前优先记住
+## 三、出发前速记
 
 **toilet、exit、entrance、airport、hotel、taxi、station、ticket、how much、help、water、spicy、halal、left、right。**
