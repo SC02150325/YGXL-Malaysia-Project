@@ -47,7 +47,7 @@ Eaton Residence KLCC 靠近 Conlay MRT Station。前往茨厂街/鬼仔巷时，
 ## Day 4 送机计划 / Departure Transfer
 
 - 计划方案：Trip.com 送机，马六甲惠胜酒店 / Hatten Hotel Melaka → Kuala Lumpur International Airport T2。
-- 目标：约 13:00 前抵达 KUL T2，航班为 16:35 的 AK116。
+- 目标：约 17:00 前抵达 KUL T2，航班为 20:15 的 AK118。
 - 待确认：订单是否预订成功、司机联系方式、车辆容量、行李数量和上车时间。
 - 备用方案：Trip.com 未确认或延误时，改用 Grab 6-seater 或其他 4 人直达车辆。
 
