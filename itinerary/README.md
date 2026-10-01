@@ -1,5 +1,11 @@
 # 每日行程
 
+## 吉隆坡 Day 1 / Day 2 总路线图
+
+![吉隆坡 Day 1 和 Day 2 路线图](./kuala-lumpur-day1-day2-route.png)
+
+蓝线为 Day 1：Eaton Residences → 双子塔 / KLCC → Saloma Link；橙线为 Day 2：Eaton Residences → 鬼仔巷 → 茨厂街 → 中央市场。路线用于行程规划和方向参考，实际步行、Grab 及入口位置以当天地图和交通情况为准。
+
 ## 关键地点速记 / Key Places
 
 ### 航班 / Flights
